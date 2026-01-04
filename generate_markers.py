@@ -56,7 +56,7 @@ def get_pin_color(station_type):
     return TYPE_TO_PIN.get(station_type, DEFAULT_PIN)
 
 
-def generate_markers(csv_path, jsonl_path, output_path):
+def generate_markers(csv_path, jsonl_path, output_path, markers_url=None):
     """
     Generate markers JSON from CSV stations and JSONL coordinates
     """
@@ -118,6 +118,12 @@ def generate_markers(csv_path, jsonl_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2)
     
+    # Generate edastro.com URL if markers_url provided
+    edastro_url = None
+    if markers_url:
+        from urllib.parse import quote
+        edastro_url = f"https://edastro.com/galmap/?custom={quote(markers_url, safe=':/?=&')}"
+    
     # Print summary
     total = matched_count + len(unmatched)
     print(f"\n✓ Markers generated successfully!", file=sys.stderr)
@@ -125,13 +131,20 @@ def generate_markers(csv_path, jsonl_path, output_path):
     print(f"  Matched: {matched_count}", file=sys.stderr)
     print(f"  Unmatched: {len(unmatched)}", file=sys.stderr)
     print(f"  Output: {output_path}", file=sys.stderr)
+    
+    if edastro_url:
+        print(f"\n🗺 Galmap URL:", file=sys.stderr)
+        print(f"  {edastro_url}", file=sys.stderr)
 
 
 if __name__ == "__main__":
     # Paths
     workspace_dir = Path(__file__).parent
     csv_file = workspace_dir / "stations-search-33043E22-E969-11F0-BC90-D8AF259F7FA5-1.csv"
-    jsonl_file = workspace_dir / "edastro_systems7days.jsonl"
+    jsonl_file = workspace_dir / "systemsWithCoordinates.jsonl"
     output_file = workspace_dir / "markers.json"
     
-    generate_markers(csv_file, jsonl_file, output_file)
+    # URL to the markers.json file on GitHub
+    markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json?token=GHSAT0AAAAAADSNKR556JRAILL3BVOGEC3C2K2M3OA"
+    
+    generate_markers(csv_file, jsonl_file, output_file, markers_url)
