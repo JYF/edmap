@@ -1,0 +1,1320 @@
+{
+  "markers": [
+    {
+      "pin": "asteroidbase",
+      "text": "Medusa's Rock",
+      "x": -4842.19,
+      "y": 210.812,
+      "z": 1252.22
+    },
+    {
+      "pin": "carrier",
+      "text": "HBF-90T",
+      "x": -5931.06,
+      "y": 887.75,
+      "z": 1361.28
+    },
+    {
+      "pin": "carrier",
+      "text": "X6Y-5QQ",
+      "x": -5931.06,
+      "y": 887.75,
+      "z": 1361.28
+    },
+    {
+      "pin": "carrier",
+      "text": "G9G-LQJ",
+      "x": -5103.25,
+      "y": -123.594,
+      "z": -20.8125
+    },
+    {
+      "pin": "carrier",
+      "text": "K4T-95L",
+      "x": -5234.5,
+      "y": 390.688,
+      "z": 2667.81
+    },
+    {
+      "pin": "carrier",
+      "text": "QZH-91J",
+      "x": -3141.84,
+      "y": -265.031,
+      "z": 1674.69
+    },
+    {
+      "pin": "carrier",
+      "text": "G8N-88Q",
+      "x": -6604.56,
+      "y": -158.438,
+      "z": 878.156
+    },
+    {
+      "pin": "carrier",
+      "text": "UZZ-7VZ",
+      "x": -2987.53,
+      "y": -101.375,
+      "z": 1374.59
+    },
+    {
+      "pin": "carrier",
+      "text": "W1L-23L",
+      "x": -3118.53,
+      "y": 175.344,
+      "z": 446.938
+    },
+    {
+      "pin": "carrier",
+      "text": "KBB-TKJ",
+      "x": -3170.72,
+      "y": 53.7188,
+      "z": 2276.03
+    },
+    {
+      "pin": "carrier",
+      "text": "JFQ-34L",
+      "x": -6820.72,
+      "y": -223.531,
+      "z": 857.375
+    },
+    {
+      "pin": "carrier",
+      "text": "G7G-73V",
+      "x": -5475.19,
+      "y": -450.531,
+      "z": -1049.75
+    },
+    {
+      "pin": "carrier",
+      "text": "J7Y-T5B",
+      "x": -7095.38,
+      "y": 401.25,
+      "z": 2396.81
+    },
+    {
+      "pin": "carrier",
+      "text": "KLF-WTK",
+      "x": -2679,
+      "y": -633.938,
+      "z": 2313
+    },
+    {
+      "pin": "coriolis",
+      "text": "Arber Terminal",
+      "x": -2336.69,
+      "y": -137.844,
+      "z": 574.25
+    },
+    {
+      "pin": "asteroidbase",
+      "text": "Elephant's Trunk Mine",
+      "x": -2660.97,
+      "y": 180.156,
+      "z": -433.156
+    },
+    {
+      "pin": "carrier",
+      "text": "N0M-40Z",
+      "x": -2660.97,
+      "y": 180.156,
+      "z": -433.156
+    },
+    {
+      "pin": "carrier",
+      "text": "W4T-1TF",
+      "x": -2660.97,
+      "y": 180.156,
+      "z": -433.156
+    },
+    {
+      "pin": "carrier",
+      "text": "T9Z-3HJ",
+      "x": -3625.69,
+      "y": -11.125,
+      "z": 3718.88
+    },
+    {
+      "pin": "carrier",
+      "text": "Q2X-N7Z",
+      "x": -7016.78,
+      "y": -509.125,
+      "z": -503.375
+    },
+    {
+      "pin": "coriolis",
+      "text": "Mellon Hub",
+      "x": -2023.22,
+      "y": 44.4375,
+      "z": 469.594
+    },
+    {
+      "pin": "planetarybase",
+      "text": "FoxTalbot Prospect",
+      "x": -2022.66,
+      "y": 37.75,
+      "z": 453.875
+    },
+    {
+      "pin": "dodec",
+      "text": "Leclercq Point",
+      "x": -2023.22,
+      "y": 51.4688,
+      "z": 445.438
+    },
+    {
+      "pin": "coriolis",
+      "text": "Lessing's Folly",
+      "x": -2023.22,
+      "y": 51.4688,
+      "z": 445.438
+    },
+    {
+      "pin": "coriolis",
+      "text": "Longyear Gateway",
+      "x": -2023.22,
+      "y": 51.4688,
+      "z": 445.438
+    },
+    {
+      "pin": "carrier",
+      "text": "K6N-42B",
+      "x": -1896.41,
+      "y": -294.688,
+      "z": 1663.41
+    },
+    {
+      "pin": "carrier",
+      "text": "TFT-7KW",
+      "x": -1862.59,
+      "y": -59.0938,
+      "z": 1776.81
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Levi-Civita City",
+      "x": -1929.66,
+      "y": -14.875,
+      "z": 400.062
+    },
+    {
+      "pin": "dodec",
+      "text": "Griffith Vision",
+      "x": -1920.62,
+      "y": -230.781,
+      "z": 522.906
+    },
+    {
+      "pin": "dodec",
+      "text": "Sabine Legacy",
+      "x": -1910.31,
+      "y": 140.875,
+      "z": 387.438
+    },
+    {
+      "pin": "outpost",
+      "text": "Acharya City",
+      "x": -1919.75,
+      "y": -312.375,
+      "z": 489.031
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Holdstock's Folly",
+      "x": -1919.75,
+      "y": -312.375,
+      "z": 489.031
+    },
+    {
+      "pin": "dodec",
+      "text": "Shulick Headquarters [itrc]",
+      "x": -1919.75,
+      "y": -312.375,
+      "z": 489.031
+    },
+    {
+      "pin": "carrier",
+      "text": "KNL-NXN",
+      "x": -1916.34,
+      "y": -299.812,
+      "z": 490.375
+    },
+    {
+      "pin": "orbis",
+      "text": "Veil Nebula East Observatory",
+      "x": -1916.34,
+      "y": -299.812,
+      "z": 490.375
+    },
+    {
+      "pin": "carrier",
+      "text": "V3L-65Z",
+      "x": -1915.16,
+      "y": -314.344,
+      "z": 495.375
+    },
+    {
+      "pin": "dodec",
+      "text": "Sancta Terra Observatory",
+      "x": -1891.91,
+      "y": -306.875,
+      "z": 430.156
+    },
+    {
+      "pin": "carrier",
+      "text": "VFN-N5G",
+      "x": -1916.84,
+      "y": 25.375,
+      "z": 209.094
+    },
+    {
+      "pin": "coriolis",
+      "text": "Rucker Reach",
+      "x": -1927.69,
+      "y": -12.6875,
+      "z": 138.656
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Moorcock Platform",
+      "x": -1927.69,
+      "y": -12.6875,
+      "z": 138.656
+    },
+    {
+      "pin": "coriolis",
+      "text": "Heavens Gate",
+      "x": -1927.69,
+      "y": -12.6875,
+      "z": 138.656
+    },
+    {
+      "pin": "dodec",
+      "text": "Isilwen's Absence",
+      "x": -1927.69,
+      "y": -12.6875,
+      "z": 138.656
+    },
+    {
+      "pin": "carrier",
+      "text": "W6T-22Q",
+      "x": -1915.38,
+      "y": 69.8125,
+      "z": 153.312
+    },
+    {
+      "pin": "dodec",
+      "text": "Brahx's Big Blue Base",
+      "x": -1915.38,
+      "y": 69.8125,
+      "z": 153.312
+    },
+    {
+      "pin": "carrier",
+      "text": "QBG-19H",
+      "x": -5802.47,
+      "y": 780.062,
+      "z": 4176.94
+    },
+    {
+      "pin": "carrier",
+      "text": "GBY-43H",
+      "x": -1904,
+      "y": 54.7188,
+      "z": 173.875
+    },
+    {
+      "pin": "carrier",
+      "text": "QFH-10L",
+      "x": -1892.56,
+      "y": -16.4062,
+      "z": 205.25
+    },
+    {
+      "pin": "dodec",
+      "text": "Vesper's End",
+      "x": -1892.56,
+      "y": -16.4062,
+      "z": 205.25
+    },
+    {
+      "pin": "dodec",
+      "text": "Lowes Home Improvement",
+      "x": -1900.03,
+      "y": 110.094,
+      "z": 155.969
+    },
+    {
+      "pin": "carrier",
+      "text": "TZY-L7N",
+      "x": -1900.03,
+      "y": 110.094,
+      "z": 155.969
+    },
+    {
+      "pin": "dodec",
+      "text": "Heath's Row",
+      "x": -1897.44,
+      "y": 5.21875,
+      "z": 163.156
+    },
+    {
+      "pin": "carrier",
+      "text": "H3C-06X",
+      "x": -1895.38,
+      "y": -8.28125,
+      "z": 165.656
+    },
+    {
+      "pin": "orbis",
+      "text": "Julias Perseverance",
+      "x": -1893.91,
+      "y": 18.2188,
+      "z": 163.844
+    },
+    {
+      "pin": "coriolis",
+      "text": "Rushd Sanctuary",
+      "x": -1823.84,
+      "y": 15.1562,
+      "z": 373.688
+    },
+    {
+      "pin": "coriolis",
+      "text": "Plato Palace",
+      "x": -1823.84,
+      "y": 15.1562,
+      "z": 373.688
+    },
+    {
+      "pin": "ocellus",
+      "text": "Messier's Folly",
+      "x": -1823.84,
+      "y": 15.1562,
+      "z": 373.688
+    },
+    {
+      "pin": "carrier",
+      "text": "X8B-W5N",
+      "x": -1900.62,
+      "y": -34.2812,
+      "z": 142.344
+    },
+    {
+      "pin": "coriolis",
+      "text": "Caligula Landing",
+      "x": -1900.62,
+      "y": -34.2812,
+      "z": 142.344
+    },
+    {
+      "pin": "carrier",
+      "text": "G9M-33G",
+      "x": -1900.62,
+      "y": -34.2812,
+      "z": 142.344
+    },
+    {
+      "pin": "carrier",
+      "text": "V2B-05L",
+      "x": -1900.62,
+      "y": -34.2812,
+      "z": 142.344
+    },
+    {
+      "pin": "coriolis",
+      "text": "Rowntree Depot",
+      "x": -1900.62,
+      "y": -34.2812,
+      "z": 142.344
+    },
+    {
+      "pin": "carrier",
+      "text": "J7T-7TL",
+      "x": -1885.59,
+      "y": -12.0312,
+      "z": 177.281
+    },
+    {
+      "pin": "outpost",
+      "text": "Saunders Holdings",
+      "x": -1819.12,
+      "y": 5.5,
+      "z": 376.188
+    },
+    {
+      "pin": "carrier",
+      "text": "W0N-12Q",
+      "x": -1794.97,
+      "y": 176.906,
+      "z": 431.562
+    },
+    {
+      "pin": "outpost",
+      "text": "Leeson Laboratory",
+      "x": -1900.5,
+      "y": -60.9062,
+      "z": 139.469
+    },
+    {
+      "pin": "coriolis",
+      "text": "Shakespeare Terminal",
+      "x": -1900.5,
+      "y": -60.9062,
+      "z": 139.469
+    },
+    {
+      "pin": "outpost",
+      "text": "Haise Base",
+      "x": -1894.44,
+      "y": -28.0938,
+      "z": 147.562
+    },
+    {
+      "pin": "coriolis",
+      "text": "Markham Mine",
+      "x": -1884.28,
+      "y": -8.9375,
+      "z": 165.469
+    },
+    {
+      "pin": "coriolis",
+      "text": "Patrick Depot",
+      "x": -1888.34,
+      "y": -25.375,
+      "z": 148.875
+    },
+    {
+      "pin": "outpost",
+      "text": "Watson Observatory",
+      "x": -1881.72,
+      "y": -31.2188,
+      "z": 167.406
+    },
+    {
+      "pin": "outpost",
+      "text": "Pei Gateway",
+      "x": -1892.28,
+      "y": -32.6875,
+      "z": 138.125
+    },
+    {
+      "pin": "coriolis",
+      "text": "Sapochnik Vista",
+      "x": -1892.28,
+      "y": -32.6875,
+      "z": 138.125
+    },
+    {
+      "pin": "outpost",
+      "text": "Avdeyev Platform",
+      "x": -1877.41,
+      "y": -27.9375,
+      "z": 175.625
+    },
+    {
+      "pin": "outpost",
+      "text": "Wilcox Beacon",
+      "x": -1873.06,
+      "y": -0.21875,
+      "z": 176.188
+    },
+    {
+      "pin": "orbis",
+      "text": "Hornby Settlement",
+      "x": -1863.75,
+      "y": -7.4375,
+      "z": 182.188
+    },
+    {
+      "pin": "outpost",
+      "text": "Borman Prospect",
+      "x": -1889.66,
+      "y": -39.6875,
+      "z": 118.156
+    },
+    {
+      "pin": "orbis",
+      "text": "Your Mom",
+      "x": -1889.66,
+      "y": -39.6875,
+      "z": 118.156
+    },
+    {
+      "pin": "carrier",
+      "text": "H5V-56X",
+      "x": -1876.22,
+      "y": -10.1562,
+      "z": 145.156
+    },
+    {
+      "pin": "outpost",
+      "text": "Laughlin Lab",
+      "x": -1876.22,
+      "y": -10.1562,
+      "z": 145.156
+    },
+    {
+      "pin": "outpost",
+      "text": "Asami Horizons",
+      "x": -1881.91,
+      "y": -59,
+      "z": 133.156
+    },
+    {
+      "pin": "outpost",
+      "text": "Smatting Delvers",
+      "x": -1880.91,
+      "y": -60.2812,
+      "z": 134.062
+    },
+    {
+      "pin": "carrier",
+      "text": "TLT-55Y",
+      "x": -1794.69,
+      "y": 53.6875,
+      "z": 365.844
+    },
+    {
+      "pin": "orbis",
+      "text": "Sadr Hexers Watch",
+      "x": -1794.69,
+      "y": 53.6875,
+      "z": 365.844
+    },
+    {
+      "pin": "ocellus",
+      "text": "Hyecho City",
+      "x": -1783.69,
+      "y": 59.7812,
+      "z": 400.781
+    },
+    {
+      "pin": "carrier",
+      "text": "K9L-05M",
+      "x": -1783.69,
+      "y": 59.7812,
+      "z": 400.781
+    },
+    {
+      "pin": "orbis",
+      "text": "Honeybadger3",
+      "x": -1881.22,
+      "y": -35.0625,
+      "z": 122.969
+    },
+    {
+      "pin": "orbis",
+      "text": "Dopeimus Station",
+      "x": -1881.22,
+      "y": -35.0625,
+      "z": 122.969
+    },
+    {
+      "pin": "carrier",
+      "text": "K9V-60Z",
+      "x": -1882.94,
+      "y": -37.4062,
+      "z": 111.875
+    },
+    {
+      "pin": "asteroidbase",
+      "text": "Koishikawa Platform",
+      "x": -1882.94,
+      "y": -37.4062,
+      "z": 111.875
+    },
+    {
+      "pin": "outpost",
+      "text": "Akiyama Depot",
+      "x": -1882.94,
+      "y": -37.4062,
+      "z": 111.875
+    },
+    {
+      "pin": "carrier",
+      "text": "WLW-T7V",
+      "x": -1876.81,
+      "y": -58.2812,
+      "z": 121.281
+    },
+    {
+      "pin": "outpost",
+      "text": "Macmillan Terminal",
+      "x": -1876.81,
+      "y": -58.2812,
+      "z": 121.281
+    },
+    {
+      "pin": "coriolis",
+      "text": "Vernors Deep",
+      "x": -1876.81,
+      "y": -58.2812,
+      "z": 121.281
+    },
+    {
+      "pin": "carrier",
+      "text": "WLM-9QF",
+      "x": -7643.31,
+      "y": -2.5,
+      "z": -261.812
+    },
+    {
+      "pin": "carrier",
+      "text": "B7G-BVV",
+      "x": -1815.94,
+      "y": -77.4375,
+      "z": 237.906
+    },
+    {
+      "pin": "orbis",
+      "text": "Bendell Beacon",
+      "x": -1815.94,
+      "y": -70.4062,
+      "z": 223.531
+    },
+    {
+      "pin": "ocellus",
+      "text": "Judson Vista",
+      "x": -1703.66,
+      "y": 40.4375,
+      "z": 514.938
+    },
+    {
+      "pin": "carrier",
+      "text": "W8Q-48Z",
+      "x": -1769.66,
+      "y": -15.6562,
+      "z": 263.062
+    },
+    {
+      "pin": "carrier",
+      "text": "X8K-W2Q",
+      "x": -2974.94,
+      "y": 165.438,
+      "z": -1392.47
+    },
+    {
+      "pin": "coriolis",
+      "text": "Feoktistov Reach",
+      "x": -1755.94,
+      "y": -7.40625,
+      "z": 159.688
+    },
+    {
+      "pin": "carrier",
+      "text": "KHJ-6TL",
+      "x": -1752.69,
+      "y": -14.6875,
+      "z": 148.844
+    },
+    {
+      "pin": "orbis",
+      "text": "Lepso's Gate",
+      "x": -1752.69,
+      "y": -14.6875,
+      "z": 148.844
+    },
+    {
+      "pin": "dodec",
+      "text": "Stirzaker Cave Water Vistas",
+      "x": -2248.53,
+      "y": 127.062,
+      "z": -813.875
+    },
+    {
+      "pin": "carrier",
+      "text": "TRCG",
+      "x": -2254.19,
+      "y": 99.6875,
+      "z": -840.625
+    },
+    {
+      "pin": "orbis",
+      "text": "Grothendieck Landing",
+      "x": -2254.19,
+      "y": 99.6875,
+      "z": -840.625
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Saarinen Camp",
+      "x": -2242.38,
+      "y": 107.281,
+      "z": -828.094
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Bagian Base",
+      "x": -2243,
+      "y": 116.406,
+      "z": -833.469
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Rangarajan Lab",
+      "x": -2251.03,
+      "y": 97.9688,
+      "z": -852.438
+    },
+    {
+      "pin": "coriolis",
+      "text": "Requiem Cygni",
+      "x": -1623.5,
+      "y": -178.688,
+      "z": 420.031
+    },
+    {
+      "pin": "outpost",
+      "text": "Barcelos Platform",
+      "x": -2232.22,
+      "y": 80.0625,
+      "z": -840.688
+    },
+    {
+      "pin": "carrier",
+      "text": "T3G-B4X",
+      "x": -2277.62,
+      "y": 56.125,
+      "z": -895.781
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Burstein Hub",
+      "x": -2256.25,
+      "y": 55.1562,
+      "z": -894.125
+    },
+    {
+      "pin": "coriolis",
+      "text": "Mizuno Prospect",
+      "x": -1542.97,
+      "y": -136.25,
+      "z": 383.75
+    },
+    {
+      "pin": "outpost",
+      "text": "Lindgren Platform",
+      "x": -2131.97,
+      "y": 61.3125,
+      "z": -848.5
+    },
+    {
+      "pin": "coriolis",
+      "text": "-[] Usr == Sys []- Synapse Gate",
+      "x": -1472.09,
+      "y": -199.188,
+      "z": 428.562
+    },
+    {
+      "pin": "dodec",
+      "text": "Silent Witness",
+      "x": -1472.09,
+      "y": -199.188,
+      "z": 428.562
+    },
+    {
+      "pin": "coriolis",
+      "text": "- - - - - Broken Mirror Passage - - - - -",
+      "x": -1472.09,
+      "y": -199.188,
+      "z": 428.562
+    },
+    {
+      "pin": "orbis",
+      "text": "Silent Witness - Threshold Hub",
+      "x": -1472.09,
+      "y": -199.188,
+      "z": 428.562
+    },
+    {
+      "pin": "outpost",
+      "text": "Prometheus",
+      "x": -1472.09,
+      "y": -199.188,
+      "z": 428.562
+    },
+    {
+      "pin": "dodec",
+      "text": "Goth Mommy Town",
+      "x": -1463.38,
+      "y": -169.688,
+      "z": 396.781
+    },
+    {
+      "pin": "carrier",
+      "text": "J0Z-51B",
+      "x": -2454.19,
+      "y": 299.062,
+      "z": -1326.06
+    },
+    {
+      "pin": "asteroidbase",
+      "text": "Gorgon Research Facility",
+      "x": -2454.19,
+      "y": 299.062,
+      "z": -1326.06
+    },
+    {
+      "pin": "outpost",
+      "text": "Hennepin Survey",
+      "x": -2057.97,
+      "y": 24.375,
+      "z": -894.719
+    },
+    {
+      "pin": "planetarybase",
+      "text": "Sternberg Platform",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "dodec",
+      "text": "The Cube - Himmelsfeste Di Fiore",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "coriolis",
+      "text": "Shepard Enterprise",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "outpost",
+      "text": "Leoniceno Laboratory",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "carrier",
+      "text": "G9H-82W",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "carrier",
+      "text": "DFTO",
+      "x": -1444.44,
+      "y": -166.938,
+      "z": 400.594
+    },
+    {
+      "pin": "carrier",
+      "text": "HHK-63T",
+      "x": -2449.19,
+      "y": 296.844,
+      "z": -1334.75
+    },
+    {
+      "pin": "orbis",
+      "text": "Schwentke Relay",
+      "x": -1424,
+      "y": -167.344,
+      "z": 416.125
+    },
+    {
+      "pin": "carrier",
+      "text": "K8K-10T",
+      "x": -1405.22,
+      "y": -187.844,
+      "z": 454.094
+    },
+    {
+      "pin": "ocellus",
+      "text": "Raleigh Hub",
+      "x": -1405.22,
+      "y": -187.844,
+      "z": 454.094
+    },
+    {
+      "pin": "orbis",
+      "text": "Patel Beacon",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "asteroidbase",
+      "text": "Melvill Sanctuary",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "dodec",
+      "text": "Albitzky Gateway",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "carrier",
+      "text": "X3M-W2Q",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "outpost",
+      "text": "Pythagoras Legacy",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "outpost",
+      "text": "Roeg Gateway",
+      "x": -1411.09,
+      "y": -183.156,
+      "z": 423.75
+    },
+    {
+      "pin": "outpost",
+      "text": "Augustvonsteinheil Enterprise",
+      "x": -1411.66,
+      "y": -176.688,
+      "z": 416.031
+    },
+    {
+      "pin": "outpost",
+      "text": "Di Fiore Vail West Observatory",
+      "x": -1411.66,
+      "y": -176.688,
+      "z": 416.031
+    },
+    {
+      "pin": "coriolis",
+      "text": "The Bleeding Rose Depot",
+      "x": -1411.66,
+      "y": -176.688,
+      "z": 416.031
+    },
+    {
+      "pin": "orbis",
+      "text": "Hyperion Monolith 002 - Harbringer Drive",
+      "x": -1411.66,
+      "y": -176.688,
+      "z": 416.031
+    },
+    {
+      "pin": "coriolis",
+      "text": "Nusslein-volhard Relay",
+      "x": -1409.88,
+      "y": -180.344,
+      "z": 404.719
+    },
+    {
+      "pin": "outpost",
+      "text": "Apt Beacon",
+      "x": -1399.66,
+      "y": -183.938,
+      "z": 435.656
+    },
+    {
+      "pin": "orbis",
+      "text": "Foxytech Veil Observatory",
+      "x": -1402.75,
+      "y": -197.812,
+      "z": 429.219
+    },
+    {
+      "pin": "carrier",
+      "text": "K2T-B7H",
+      "x": -1398.25,
+      "y": -193.562,
+      "z": 418.906
+    },
+    {
+      "pin": "carrier",
+      "text": "X7Y-61G",
+      "x": -1398.25,
+      "y": -193.562,
+      "z": 418.906
+    },
+    {
+      "pin": "carrier",
+      "text": "Y3W-52Z",
+      "x": -1399.09,
+      "y": -197.281,
+      "z": 416.594
+    },
+    {
+      "pin": "outpost",
+      "text": "Mandela's Pride",
+      "x": -1397.75,
+      "y": -195.625,
+      "z": 416.625
+    },
+    {
+      "pin": "orbis",
+      "text": "Bol X Nod Friendship Forever Station",
+      "x": -1395.16,
+      "y": -203,
+      "z": 412.062
+    },
+    {
+      "pin": "carrier",
+      "text": "X1X-7KV",
+      "x": -1393.78,
+      "y": -200.062,
+      "z": 414.719
+    },
+    {
+      "pin": "carrier",
+      "text": "H8F-0XL",
+      "x": -1393.78,
+      "y": -200.062,
+      "z": 414.719
+    },
+    {
+      "pin": "orbis",
+      "text": "Hobbes Vista",
+      "x": -1393.78,
+      "y": -200.062,
+      "z": 414.719
+    },
+    {
+      "pin": "orbis",
+      "text": "Bank Of Beamer Veil West Branch",
+      "x": -1392.91,
+      "y": -197.594,
+      "z": 410.719
+    },
+    {
+      "pin": "carrier",
+      "text": "G9K-N9X",
+      "x": -1392.91,
+      "y": -197.594,
+      "z": 410.719
+    },
+    {
+      "pin": "carrier",
+      "text": "ELWO",
+      "x": -1392.91,
+      "y": -197.594,
+      "z": 410.719
+    },
+    {
+      "pin": "carrier",
+      "text": "CCCO",
+      "x": -1392.91,
+      "y": -197.594,
+      "z": 410.719
+    },
+    {
+      "pin": "orbis",
+      "text": "Looks To The Moon",
+      "x": -1393.53,
+      "y": -216.781,
+      "z": 416.281
+    },
+    {
+      "pin": "dodec",
+      "text": "Astradust Horizon",
+      "x": -1375.91,
+      "y": -201.406,
+      "z": 436.562
+    },
+    {
+      "pin": "outpost",
+      "text": "Bear Silo",
+      "x": -1383.75,
+      "y": -214.438,
+      "z": 409.25
+    },
+    {
+      "pin": "planetarybase",
+      "text": "RonHubbard Platform",
+      "x": -1370.47,
+      "y": -214.219,
+      "z": 462.25
+    },
+    {
+      "pin": "outpost",
+      "text": "Taper Outlook",
+      "x": -1376.44,
+      "y": -191,
+      "z": 423.281
+    },
+    {
+      "pin": "carrier",
+      "text": "WSET",
+      "x": -1843.5,
+      "y": 11.25,
+      "z": -724.594
+    },
+    {
+      "pin": "ocellus",
+      "text": "Camellia Nebula Tourist Station",
+      "x": -1361.44,
+      "y": -200.781,
+      "z": 442.969
+    },
+    {
+      "pin": "orbis",
+      "text": "Kotonoha Station",
+      "x": -1355.84,
+      "y": -192.875,
+      "z": 433.906
+    },
+    {
+      "pin": "orbis",
+      "text": "Tsubomi City",
+      "x": -1355.84,
+      "y": -192.875,
+      "z": 433.906
+    },
+    {
+      "pin": "coriolis",
+      "text": "Shooting Range Primary Station",
+      "x": -1351.31,
+      "y": -196.281,
+      "z": 431.656
+    },
+    {
+      "pin": "dodec",
+      "text": "Ball Terminal",
+      "x": -1351.31,
+      "y": -196.281,
+      "z": 431.656
+    },
+    {
+      "pin": "carrier",
+      "text": "KSSQ",
+      "x": -1351.31,
+      "y": -196.281,
+      "z": 431.656
+    },
+    {
+      "pin": "coriolis",
+      "text": "Becquerel Enterprise",
+      "x": -1357.16,
+      "y": -202.312,
+      "z": 378.844
+    },
+    {
+      "pin": "outpost",
+      "text": "Goya Beacon",
+      "x": -1357.16,
+      "y": -202.312,
+      "z": 378.844
+    },
+    {
+      "pin": "coriolis",
+      "text": "Bester's Folly",
+      "x": -1357.16,
+      "y": -202.312,
+      "z": 378.844
+    },
+    {
+      "pin": "orbis",
+      "text": "Hall Of Ravers",
+      "x": -1357.16,
+      "y": -202.312,
+      "z": 378.844
+    },
+    {
+      "pin": "carrier",
+      "text": "H9N-80Z",
+      "x": -2968.09,
+      "y": -37.8125,
+      "z": -1865.06
+    },
+    {
+      "pin": "outpost",
+      "text": "Yamazaki Prospect",
+      "x": -1341.84,
+      "y": 38.6562,
+      "z": 109.125
+    },
+    {
+      "pin": "outpost",
+      "text": "Johnson Depot",
+      "x": -1639.84,
+      "y": -40.4062,
+      "z": -692.281
+    },
+    {
+      "pin": "orbis",
+      "text": "Deano's Angels Nirvana",
+      "x": -1639.84,
+      "y": -40.4062,
+      "z": -692.281
+    },
+    {
+      "pin": "dodec",
+      "text": "Deano's Angels Paradise",
+      "x": -1639.84,
+      "y": -40.4062,
+      "z": -692.281
+    },
+    {
+      "pin": "outpost",
+      "text": "Teller's Inheritance",
+      "x": -1634.53,
+      "y": -42.625,
+      "z": -692.969
+    },
+    {
+      "pin": "dodec",
+      "text": "Park Vision",
+      "x": -1476.03,
+      "y": -12.625,
+      "z": -410.031
+    },
+    {
+      "pin": "orbis",
+      "text": "Royal Colonial Metals 3",
+      "x": -1616.19,
+      "y": -39.9375,
+      "z": -697.938
+    },
+    {
+      "pin": "carrier",
+      "text": "G8V-01L",
+      "x": -1608.88,
+      "y": -43.9375,
+      "z": -697.438
+    },
+    {
+      "pin": "dodec",
+      "text": "Niels Bohr City",
+      "x": -1608.88,
+      "y": -43.9375,
+      "z": -697.438
+    },
+    {
+      "pin": "asteroidbase",
+      "text": "Iris Vacations",
+      "x": -1415.78,
+      "y": 366.656,
+      "z": -355.312
+    },
+    {
+      "pin": "coriolis",
+      "text": "Cherry Vision",
+      "x": -1599.94,
+      "y": -41.5312,
+      "z": -709.875
+    },
+    {
+      "pin": "carrier",
+      "text": "Q5F-7HM",
+      "x": -2391.75,
+      "y": 17.9688,
+      "z": -1656.66
+    },
+    {
+      "pin": "carrier",
+      "text": "KHN-5VJ",
+      "x": -1025.72,
+      "y": 546.656,
+      "z": 1426.97
+    }
+  ]
+}
