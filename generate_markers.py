@@ -88,7 +88,7 @@ def generate_markers(csv_path, jsonl_path, output_path, markers_url=None):
                     
                     marker = {
                         "pin": pin,
-                        "text": name,
+                        "text": f"{system_name}\n{name}\nType:{station_type}" ,
                         "x": coords.get("x"),
                         "y": coords.get("y"),
                         "z": coords.get("z")
@@ -145,6 +145,6 @@ if __name__ == "__main__":
     output_file = workspace_dir / "markers.json"
     
     # URL to the markers.json file on GitHub
-    markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json?token=GHSAT0AAAAAADSNKR556JRAILL3BVOGEC3C2K2M3OA"
+    markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json"
     
     generate_markers(csv_file, jsonl_file, output_file, markers_url)

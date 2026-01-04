@@ -2,3451 +2,3451 @@
   "markers": [
     {
       "pin": "asteroidbase",
-      "text": "Medusa's Rock",
+      "text": "Crescent Sector GW-W c1-8\nMedusa's Rock\nType:Asteroid base",
       "x": -4842.1875,
       "y": 210.8125,
       "z": 1252.21875
     },
     {
       "pin": "carrier",
-      "text": "BHL-9VZ",
+      "text": "Preia Dryiae WT-E b45-3\nBHL-9VZ\nType:Drake-Class Carrier",
       "x": -4611.1875,
       "y": -100.625,
       "z": 1192.4375
     },
     {
       "pin": "carrier",
-      "text": "HZK-N4Z",
+      "text": "Sifoae ZA-O b49-0\nHZK-N4Z\nType:Drake-Class Carrier",
       "x": -5319.09375,
       "y": 342.8125,
       "z": 1293.71875
     },
     {
       "pin": "carrier",
-      "text": "VLK-2QZ",
+      "text": "Sifou XU-T b44-1\nVLK-2QZ\nType:Drake-Class Carrier",
       "x": -4308.15625,
       "y": 31.65625,
       "z": 1177.84375
     },
     {
       "pin": "carrier",
-      "text": "V4M-G3L",
+      "text": "Sifou LS-B d13-19\nV4M-G3L\nType:Drake-Class Carrier",
       "x": -4251.6875,
       "y": 138.78125,
       "z": 1337.625
     },
     {
       "pin": "carrier",
-      "text": "J9K-47M",
+      "text": "Chraufao AZ-R d4-26\nJ9K-47M\nType:Drake-Class Carrier",
       "x": -4005.9375,
       "y": 350.75,
       "z": 1906.6875
     },
     {
       "pin": "carrier",
-      "text": "N4L-94Z",
+      "text": "Blau Thua BE-B c1\nN4L-94Z\nType:Drake-Class Carrier",
       "x": -5939.0625,
       "y": 217.96875,
       "z": 1531.25
     },
     {
       "pin": "carrier",
-      "text": "T9Z-16M",
+      "text": "Flyeia Dryiae NG-W a111-0\nT9Z-16M\nType:Drake-Class Carrier",
       "x": -4934.03125,
       "y": -33.21875,
       "z": 126.28125
     },
     {
       "pin": "carrier",
-      "text": "L6H-31Z",
+      "text": "Aucofs RS-L c10-3\nL6H-31Z\nType:Drake-Class Carrier",
       "x": -3856,
       "y": -209.3125,
       "z": 1953.125
     },
     {
       "pin": "carrier",
-      "text": "HBF-90T",
+      "text": "KOI 1701\nHBF-90T\nType:Drake-Class Carrier",
       "x": -5931.0625,
       "y": 887.75,
       "z": 1361.28125
     },
     {
       "pin": "carrier",
-      "text": "X6Y-5QQ",
+      "text": "KOI 1701\nX6Y-5QQ\nType:Drake-Class Carrier",
       "x": -5931.0625,
       "y": 887.75,
       "z": 1361.28125
     },
     {
       "pin": "carrier",
-      "text": "G9G-LQJ",
+      "text": "Flyeia Dryiae QM-X b48-0\nG9G-LQJ\nType:Drake-Class Carrier",
       "x": -5103.25,
       "y": -123.59375,
       "z": -20.8125
     },
     {
       "pin": "carrier",
-      "text": "VZG-N6Q",
+      "text": "CSI+29-19529\nVZG-N6Q\nType:Drake-Class Carrier",
       "x": -5476.71875,
       "y": 62.8125,
       "z": 2449.84375
     },
     {
       "pin": "carrier",
-      "text": "B2L-TQX",
+      "text": "NGC 6842 Sector PD-S b4-0\nB2L-TQX\nType:Drake-Class Carrier",
       "x": -5476.34375,
       "y": 62.15625,
       "z": 2451.34375
     },
     {
       "pin": "carrier",
-      "text": "TLY-81K",
+      "text": "NGC 6842 Sector PD-S b4-0\nTLY-81K\nType:Drake-Class Carrier",
       "x": -5476.34375,
       "y": 62.15625,
       "z": 2451.34375
     },
     {
       "pin": "carrier",
-      "text": "JLY-4KK",
+      "text": "IRAS 21124+4604\nJLY-4KK\nType:Drake-Class Carrier",
       "x": -5596.3125,
       "y": -166.15625,
       "z": 117.21875
     },
     {
       "pin": "carrier",
-      "text": "K4T-95L",
+      "text": "Blau Thua WU-C c27-6\nK4T-95L\nType:Drake-Class Carrier",
       "x": -5234.5,
       "y": 390.6875,
       "z": 2667.8125
     },
     {
       "pin": "carrier",
-      "text": "W2F-61W",
+      "text": "Smojooe VA-Z b1\nW2F-61W\nType:Drake-Class Carrier",
       "x": -4679.03125,
       "y": 55.5,
       "z": 2795.59375
     },
     {
       "pin": "carrier",
-      "text": "G9V-B1Y",
+      "text": "Bleae Thaa BL-M b21-1\nG9V-B1Y\nType:Drake-Class Carrier",
       "x": -3442.6875,
       "y": 88.78125,
       "z": 1961.3125
     },
     {
       "pin": "carrier",
-      "text": "WSER",
+      "text": "KOI 413\nWSER\nType:Drake-Class Carrier",
       "x": -3622.375,
       "y": 849,
       "z": 430.625
     },
     {
       "pin": "carrier",
-      "text": "JLJ-70H",
+      "text": "Pru Eurk BZ-S c3-8\nJLJ-70H\nType:Drake-Class Carrier",
       "x": -3461.71875,
       "y": -2.125,
       "z": 410.4375
     },
     {
       "pin": "carrier",
-      "text": "Q8F-G7N",
+      "text": "Bleae Thaa XP-O d6-7\nQ8F-G7N\nType:Drake-Class Carrier",
       "x": -3453.75,
       "y": 419,
       "z": 2101.875
     },
     {
       "pin": "carrier",
-      "text": "KFW-75M",
+      "text": "Bleae Thaa BX-R d5-3\nKFW-75M\nType:Drake-Class Carrier",
       "x": -3608.6875,
       "y": 1035.25,
       "z": 2008.40625
     },
     {
       "pin": "carrier",
-      "text": "V7M-82W",
+      "text": "Swoilt PO-F d12-10\nV7M-82W\nType:Drake-Class Carrier",
       "x": -6502.28125,
       "y": -203.375,
       "z": 1308.28125
     },
     {
       "pin": "carrier",
-      "text": "W9B-N0K",
+      "text": "Plio Euq TH-B c14-0\nW9B-N0K\nType:Drake-Class Carrier",
       "x": -5302.875,
       "y": 338.0625,
       "z": -459.8125
     },
     {
       "pin": "carrier",
-      "text": "QZH-91J",
+      "text": "Aucofs LS-X c3-9\nQZH-91J\nType:Drake-Class Carrier",
       "x": -3141.84375,
       "y": -265.03125,
       "z": 1674.6875
     },
     {
       "pin": "carrier",
-      "text": "G8N-88Q",
+      "text": "Swoilt JH-U e3-3\nG8N-88Q\nType:Drake-Class Carrier",
       "x": -6604.5625,
       "y": -158.4375,
       "z": 878.15625
     },
     {
       "pin": "carrier",
-      "text": "UZZ-7VZ",
+      "text": "Prae Drye WI-I c26-7\nUZZ-7VZ\nType:Drake-Class Carrier",
       "x": -2987.53125,
       "y": -101.375,
       "z": 1374.59375
     },
     {
       "pin": "carrier",
-      "text": "W1L-23L",
+      "text": "Pru Eurk LO-I b10-1\nW1L-23L\nType:Drake-Class Carrier",
       "x": -3118.53125,
       "y": 175.34375,
       "z": 446.9375
     },
     {
       "pin": "carrier",
-      "text": "G5B-68Z",
+      "text": "Prae Drye RV-I c24-3\nG5B-68Z\nType:Drake-Class Carrier",
       "x": -3112.53125,
       "y": -708.09375,
       "z": 1283.65625
     },
     {
       "pin": "carrier",
-      "text": "KBB-TKJ",
+      "text": "Bleae Thaa TD-K d8-70\nKBB-TKJ\nType:Drake-Class Carrier",
       "x": -3170.71875,
       "y": 53.71875,
       "z": 2276.03125
     },
     {
       "pin": "carrier",
-      "text": "JFQ-34L",
+      "text": "Swoilt HY-C c15-0\nJFQ-34L\nType:Drake-Class Carrier",
       "x": -6820.71875,
       "y": -223.53125,
       "z": 857.375
     },
     {
       "pin": "carrier",
-      "text": "L4J-36Z",
+      "text": "Bleae Thaa OJ-G d11-5\nL4J-36Z\nType:Drake-Class Carrier",
       "x": -3231.15625,
       "y": 676.25,
       "z": 2517.96875
     },
     {
       "pin": "carrier",
-      "text": "BZN-34Z",
+      "text": "Prae Drye KH-E b57-0\nBZN-34Z\nType:Drake-Class Carrier",
       "x": -2767.34375,
       "y": -469.8125,
       "z": 1442.59375
     },
     {
       "pin": "carrier",
-      "text": "W4X-10N",
+      "text": "Bleae Thaa SY-Y b56-1\nW4X-10N\nType:Drake-Class Carrier",
       "x": -3218.5,
       "y": 245.8125,
       "z": 2728.65625
     },
     {
       "pin": "carrier",
-      "text": "GBZ-17Z",
+      "text": "Bleae Thaa GD-G c25-9\nGBZ-17Z\nType:Drake-Class Carrier",
       "x": -3089.78125,
       "y": 344.75,
       "z": 2593.21875
     },
     {
       "pin": "carrier",
-      "text": "X5Z-TKW",
+      "text": "Drojo FA-Q c8-16\nX5Z-TKW\nType:Drake-Class Carrier",
       "x": -3696.03125,
       "y": -34.96875,
       "z": 3170.3125
     },
     {
       "pin": "carrier",
-      "text": "Q2V-1XF",
+      "text": "Bleae Thaa ML-P d5-47\nQ2V-1XF\nType:Drake-Class Carrier",
       "x": -2706.75,
       "y": -13.8125,
       "z": 2000.90625
     },
     {
       "pin": "carrier",
-      "text": "J5N-6TQ",
+      "text": "Wredgaei ZF-U c17-1\nJ5N-6TQ\nType:Drake-Class Carrier",
       "x": -3117.5,
       "y": 366.34375,
       "z": -292.9375
     },
     {
       "pin": "carrier",
-      "text": "T5T-44V",
+      "text": "Bleae Thaa HA-R b34-1\nT5T-44V\nType:Drake-Class Carrier",
       "x": -2711.09375,
       "y": 432.5625,
       "z": 2245.84375
     },
     {
       "pin": "carrier",
-      "text": "Q4H-05Z",
+      "text": "IC 1396 Sector RU-F d11-7\nQ4H-05Z\nType:Drake-Class Carrier",
       "x": -2778.28125,
       "y": 129.34375,
       "z": 7.65625
     },
     {
       "pin": "carrier",
-      "text": "V6L-T2J",
+      "text": "Phylur QK-N d7-8\nV6L-T2J\nType:Drake-Class Carrier",
       "x": -2610.6875,
       "y": 659.25,
       "z": 2162.90625
     },
     {
       "pin": "carrier",
-      "text": "G7G-73V",
+      "text": "Flyua Dryiae SX-B d2\nG7G-73V\nType:Drake-Class Carrier",
       "x": -5475.1875,
       "y": -450.53125,
       "z": -1049.75
     },
     {
       "pin": "carrier",
-      "text": "GHZ-7XY",
+      "text": "Smojoo IM-U d3-13\nGHZ-7XY\nType:Drake-Class Carrier",
       "x": -3254.09375,
       "y": 619.46875,
       "z": 3113.28125
     },
     {
       "pin": "carrier",
-      "text": "K3T-1VN",
+      "text": "Drojo HB-X d1-7\nK3T-1VN\nType:Drake-Class Carrier",
       "x": -3458.84375,
       "y": -1015.90625,
       "z": 2971.40625
     },
     {
       "pin": "carrier",
-      "text": "J7Y-T5B",
+      "text": "V1357 Cygni\nJ7Y-T5B\nType:Drake-Class Carrier",
       "x": -7095.375,
       "y": 401.25,
       "z": 2396.8125
     },
     {
       "pin": "carrier",
-      "text": "V3K-0VN",
+      "text": "Flyua Dryiae JJ-V c4-0\nV3K-0VN\nType:Drake-Class Carrier",
       "x": -6184.375,
       "y": -394.9375,
       "z": -826.8125
     },
     {
       "pin": "carrier",
-      "text": "KLF-WTK",
+      "text": "Aucofs NX-J d9-13\nKLF-WTK\nType:Drake-Class Carrier",
       "x": -2679,
       "y": -633.9375,
       "z": 2313
     },
     {
       "pin": "carrier",
-      "text": "H8H-96X",
+      "text": "Plaa Eurk DF-D c26-1\nH8H-96X\nType:Drake-Class Carrier",
       "x": -2583.40625,
       "y": 102.3125,
       "z": 60.3125
     },
     {
       "pin": "carrier",
-      "text": "X3L-G7X",
+      "text": "Aucopp XM-O b24-2\nX3L-G7X\nType:Drake-Class Carrier",
       "x": -2480.15625,
       "y": -417.1875,
       "z": 2026.375
     },
     {
       "pin": "carrier",
-      "text": "XNM-3TB",
+      "text": "Outott SV-O b47-0\nXNM-3TB\nType:Drake-Class Carrier",
       "x": -5103.46875,
       "y": 61.375,
       "z": -1320.53125
     },
     {
       "pin": "carrier",
-      "text": "V4H-LQZ",
+      "text": "Drojao KN-J b39-0\nV4H-LQZ\nType:Drake-Class Carrier",
       "x": -5342.34375,
       "y": -722.46875,
       "z": 3616.71875
     },
     {
       "pin": "coriolis",
-      "text": "Arber Terminal",
+      "text": "Prooe Drye RP-V d3-21\nArber Terminal\nType:Coriolis Starport",
       "x": -2336.6875,
       "y": -137.84375,
       "z": 574.25
     },
     {
       "pin": "carrier",
-      "text": "TLH-G4B",
+      "text": "Drojo SG-L b0\nTLH-G4B\nType:Drake-Class Carrier",
       "x": -2740.125,
       "y": -124,
       "z": 2778.90625
     },
     {
       "pin": "carrier",
-      "text": "V2N-L6L",
+      "text": "Ploea Eurk GS-B d13-3\nV2N-L6L\nType:Drake-Class Carrier",
       "x": -7233.1875,
       "y": 135.21875,
       "z": 77.375
     },
     {
       "pin": "carrier",
-      "text": "V2G-B5T",
+      "text": "Oochont DC-T c20-3\nV2G-B5T\nType:Drake-Class Carrier",
       "x": -5051.75,
       "y": -37.53125,
       "z": -1434.96875
     },
     {
       "pin": "carrier",
-      "text": "WFT-8VX",
+      "text": "Oochont NS-I b42-0\nWFT-8VX\nType:Drake-Class Carrier",
       "x": -4827.375,
       "y": -239.84375,
       "z": -1436.03125
     },
     {
       "pin": "asteroidbase",
-      "text": "Elephant's Trunk Mine",
+      "text": "GM Cephei\nElephant's Trunk Mine\nType:Asteroid base",
       "x": -2660.96875,
       "y": 180.15625,
       "z": -433.15625
     },
     {
       "pin": "carrier",
-      "text": "N0M-40Z",
+      "text": "GM Cephei\nN0M-40Z\nType:Drake-Class Carrier",
       "x": -2660.96875,
       "y": 180.15625,
       "z": -433.15625
     },
     {
       "pin": "carrier",
-      "text": "W4T-1TF",
+      "text": "GM Cephei\nW4T-1TF\nType:Drake-Class Carrier",
       "x": -2660.96875,
       "y": 180.15625,
       "z": -433.15625
     },
     {
       "pin": "carrier",
-      "text": "T9Z-3HJ",
+      "text": "Smojoo UL-L c21-27\nT9Z-3HJ\nType:Drake-Class Carrier",
       "x": -3625.6875,
       "y": -11.125,
       "z": 3718.875
     },
     {
       "pin": "carrier",
-      "text": "VZZ-41Z",
+      "text": "Smojoo JG-B b28-3\nVZZ-41Z\nType:Drake-Class Carrier",
       "x": -3077.28125,
       "y": 202.59375,
       "z": 3377.875
     },
     {
       "pin": "carrier",
-      "text": "K6T-5TJ",
+      "text": "Elephant's Trunk Sector HW-W c1-2\nK6T-5TJ\nType:Drake-Class Carrier",
       "x": -2650.6875,
       "y": 169.1875,
       "z": -443.5625
     },
     {
       "pin": "carrier",
-      "text": "GHH-6HZ",
+      "text": "Sifi MC-R b6-0\nGHH-6HZ\nType:Drake-Class Carrier",
       "x": -2211.28125,
       "y": 352.53125,
       "z": 368.1875
     },
     {
       "pin": "carrier",
-      "text": "JBF-19L",
+      "text": "Drojao OE-F d12-15\nJBF-19L\nType:Drake-Class Carrier",
       "x": -5611.125,
       "y": -383.65625,
       "z": 3873.0625
     },
     {
       "pin": "carrier",
-      "text": "WBM-2XT",
+      "text": "Phylur TJ-I d9-0\nWBM-2XT\nType:Drake-Class Carrier",
       "x": -2198.15625,
       "y": -12.71875,
       "z": 2342.375
     },
     {
       "pin": "carrier",
-      "text": "Q2X-N7Z",
+      "text": "Synuefae TJ-P d6-1\nQ2X-N7Z\nType:Drake-Class Carrier",
       "x": -7016.78125,
       "y": -509.125,
       "z": -503.375
     },
     {
       "pin": "carrier",
-      "text": "T4T-1VG",
+      "text": "Phylur AQ-D b26-1\nT4T-1VG\nType:Drake-Class Carrier",
       "x": -2051.46875,
       "y": 86.6875,
       "z": 2074.40625
     },
     {
       "pin": "carrier",
-      "text": "V1H-82N",
+      "text": "Plaa Eurk LR-X b42-0\nV1H-82N\nType:Drake-Class Carrier",
       "x": -2281.875,
       "y": 59.0625,
       "z": -142.34375
     },
     {
       "pin": "coriolis",
-      "text": "Mellon Hub",
+      "text": "HD 193576\nMellon Hub\nType:Coriolis Starport",
       "x": -2023.21875,
       "y": 44.4375,
       "z": 469.59375
     },
     {
       "pin": "planetarybase",
-      "text": "FoxTalbot Prospect",
+      "text": "Sifi QF-H b10-4\nFoxTalbot Prospect\nType:Planetary Outpost",
       "x": -2022.65625,
       "y": 37.75,
       "z": 453.875
     },
     {
       "pin": "dodec",
-      "text": "Leclercq Point",
+      "text": "Sifi PM-W d1-84\nLeclercq Point\nType:Dodec Starport",
       "x": -2023.21875,
       "y": 51.46875,
       "z": 445.4375
     },
     {
       "pin": "coriolis",
-      "text": "Lessing's Folly",
+      "text": "Sifi PM-W d1-84\nLessing's Folly\nType:Coriolis Starport",
       "x": -2023.21875,
       "y": 51.46875,
       "z": 445.4375
     },
     {
       "pin": "coriolis",
-      "text": "Longyear Gateway",
+      "text": "Sifi PM-W d1-84\nLongyear Gateway\nType:Coriolis Starport",
       "x": -2023.21875,
       "y": 51.46875,
       "z": 445.4375
     },
     {
       "pin": "carrier",
-      "text": "H8K-50B",
+      "text": "Plaa Eurk HM-M b49-1\nH8K-50B\nType:Drake-Class Carrier",
       "x": -2157.46875,
       "y": 180.0625,
       "z": 2.8125
     },
     {
       "pin": "carrier",
-      "text": "G6V-93Q",
+      "text": "Byeia Thaa GL-J b23-2\nG6V-93Q\nType:Drake-Class Carrier",
       "x": -2616.59375,
       "y": 148.96875,
       "z": 3275.59375
     },
     {
       "pin": "carrier",
-      "text": "T9Z-3VN",
+      "text": "Smojoo HM-L c21-3\nT9Z-3VN\nType:Drake-Class Carrier",
       "x": -3110.0625,
       "y": 6.59375,
       "z": 3708.5625
     },
     {
       "pin": "carrier",
-      "text": "K6N-42B",
+      "text": "Aucopp UK-V b7-1\nK6N-42B\nType:Drake-Class Carrier",
       "x": -1896.40625,
       "y": -294.6875,
       "z": 1663.40625
     },
     {
       "pin": "carrier",
-      "text": "J5V-GVM",
+      "text": "Synuefue IL-N b39-1\nJ5V-GVM\nType:Drake-Class Carrier",
       "x": -2246.625,
       "y": -303.71875,
       "z": -211.625
     },
     {
       "pin": "carrier",
-      "text": "TBK-30V",
+      "text": "Blau Euq BN-W c1-3\nTBK-30V\nType:Drake-Class Carrier",
       "x": -5677.71875,
       "y": -8.25,
       "z": 4154.15625
     },
     {
       "pin": "carrier",
-      "text": "TFT-7KW",
+      "text": "Aucopp LO-T c6-2\nTFT-7KW\nType:Drake-Class Carrier",
       "x": -1862.59375,
       "y": -59.09375,
       "z": 1776.8125
     },
     {
       "pin": "carrier",
-      "text": "N5Q-3TZ",
+      "text": "Prooe Drye YB-O c9-22\nN5Q-3TZ\nType:Drake-Class Carrier",
       "x": -1879.6875,
       "y": -74.71875,
       "z": 642.65625
     },
     {
       "pin": "planetarybase",
-      "text": "Levi-Civita City",
+      "text": "Sifi SE-K b8-3\nLevi-Civita City\nType:Planetary Outpost",
       "x": -1929.65625,
       "y": -14.875,
       "z": 400.0625
     },
     {
       "pin": "dodec",
-      "text": "Griffith Vision",
+      "text": "Veil East Sector BQ-Y d17\nGriffith Vision\nType:Dodec Starport",
       "x": -1920.625,
       "y": -230.78125,
       "z": 522.90625
     },
     {
       "pin": "dodec",
-      "text": "Sabine Legacy",
+      "text": "Sifi ZS-T c3-10\nSabine Legacy\nType:Dodec Starport",
       "x": -1910.3125,
       "y": 140.875,
       "z": 387.4375
     },
     {
       "pin": "planetarybase",
-      "text": "Hulll Lab",
+      "text": "Veil East Sector GW-W c1-8\nHulll Lab\nType:Planetary Outpost",
       "x": -1929.90625,
       "y": -321.0625,
       "z": 482.625
     },
     {
       "pin": "planetarybase",
-      "text": "Baliunas Beacon",
+      "text": "Veil East Sector GW-W c1-12\nBaliunas Beacon\nType:Planetary Outpost",
       "x": -1920.03125,
       "y": -307.34375,
       "z": 486.5
     },
     {
       "pin": "planetarybase",
-      "text": "Khrunov City",
+      "text": "Sifi CO-T c3-11\nKhrunov City\nType:Planetary Outpost",
       "x": -1898.9375,
       "y": 99.1875,
       "z": 404.03125
     },
     {
       "pin": "outpost",
-      "text": "Acharya City",
+      "text": "Veil East Sector GW-W c1-13\nAcharya City\nType:Outpost",
       "x": -1919.75,
       "y": -312.375,
       "z": 489.03125
     },
     {
       "pin": "planetarybase",
-      "text": "Holdstock's Folly",
+      "text": "Veil East Sector GW-W c1-13\nHoldstock's Folly\nType:Planetary Outpost",
       "x": -1919.75,
       "y": -312.375,
       "z": 489.03125
     },
     {
       "pin": "dodec",
-      "text": "Shulick Headquarters [itrc]",
+      "text": "Veil East Sector GW-W c1-13\nShulick Headquarters [itrc]\nType:Dodec Starport",
       "x": -1919.75,
       "y": -312.375,
       "z": 489.03125
     },
     {
       "pin": "carrier",
-      "text": "KNL-NXN",
+      "text": "Veil East Sector DL-Y d54\nKNL-NXN\nType:Drake-Class Carrier",
       "x": -1916.34375,
       "y": -299.8125,
       "z": 490.375
     },
     {
       "pin": "orbis",
-      "text": "Veil Nebula East Observatory",
+      "text": "Veil East Sector DL-Y d54\nVeil Nebula East Observatory\nType:Orbis Starport",
       "x": -1916.34375,
       "y": -299.8125,
       "z": 490.375
     },
     {
       "pin": "carrier",
-      "text": "V3L-65Z",
+      "text": "Veil East Sector DL-Y d37\nV3L-65Z\nType:Drake-Class Carrier",
       "x": -1915.15625,
       "y": -314.34375,
       "z": 495.375
     },
     {
       "pin": "planetarybase",
-      "text": "Deed Prospect",
+      "text": "HR 7767\nDeed Prospect\nType:Planetary Outpost",
       "x": -1900,
       "y": 87.8125,
       "z": 389.34375
     },
     {
       "pin": "carrier",
-      "text": "XLW-N3J",
+      "text": "Byeia Thaa SY-S d3-26\nXLW-N3J\nType:Drake-Class Carrier",
       "x": -2412.1875,
       "y": 37.1875,
       "z": 3119.5
     },
     {
       "pin": "dodec",
-      "text": "Taboard Headquarters [itrc]",
+      "text": "Veil East Sector FB-X c1-16\nTaboard Headquarters [itrc]\nType:Dodec Starport",
       "x": -1904.84375,
       "y": -298.46875,
       "z": 491.71875
     },
     {
       "pin": "carrier",
-      "text": "V6J-14K",
+      "text": "North America Sector FW-W d1-59\nV6J-14K\nType:Drake-Class Carrier",
       "x": -1958.15625,
       "y": 20.40625,
       "z": 195
     },
     {
       "pin": "carrier",
-      "text": "TFJ-W4K",
+      "text": "Veil East Sector LC-V c2-11\nTFJ-W4K\nType:Drake-Class Carrier",
       "x": -1903.90625,
       "y": -311.96875,
       "z": 497
     },
     {
       "pin": "dodec",
-      "text": "Itrc Veil Nebula Hq",
+      "text": "Veil East Sector LC-V c2-11\nItrc Veil Nebula Hq\nType:Dodec Starport",
       "x": -1903.90625,
       "y": -311.96875,
       "z": 497
     },
     {
       "pin": "outpost",
-      "text": "Bear Base",
+      "text": "Veil East Sector UJ-Q b5-1\nBear Base\nType:Outpost",
       "x": -1900.1875,
       "y": -321.84375,
       "z": 502.875
     },
     {
       "pin": "outpost",
-      "text": "Baraniecki Hub",
+      "text": "North America Sector UF-N b7-4\nBaraniecki Hub\nType:Outpost",
       "x": -1947.15625,
       "y": 13,
       "z": 199.375
     },
     {
       "pin": "outpost",
-      "text": "Kratman Holdings",
+      "text": "North America Sector TK-N b7-2\nKratman Holdings\nType:Outpost",
       "x": -1934.125,
       "y": 15.03125,
       "z": 196.3125
     },
     {
       "pin": "dodec",
-      "text": "Sancta Terra Observatory",
+      "text": "Veil East Sector AF-A d2\nSancta Terra Observatory\nType:Dodec Starport",
       "x": -1891.90625,
       "y": -306.875,
       "z": 430.15625
     },
     {
       "pin": "carrier",
-      "text": "VFN-N5G",
+      "text": "North America Sector UK-N b7-2\nVFN-N5G\nType:Drake-Class Carrier",
       "x": -1916.84375,
       "y": 25.375,
       "z": 209.09375
     },
     {
       "pin": "carrier",
-      "text": "X2H-L9J",
+      "text": "Sifi EE-K c8-5\nX2H-L9J\nType:Drake-Class Carrier",
       "x": -1796.65625,
       "y": -20,
       "z": 612.28125
     },
     {
       "pin": "outpost",
-      "text": "Zajdel City",
+      "text": "North America Sector CR-M b7-4\nZajdel City\nType:Outpost",
       "x": -1914,
       "y": -61.46875,
       "z": 207.28125
     },
     {
       "pin": "outpost",
-      "text": "Whitney Horizons",
+      "text": "North America Sector UU-O b6-0\nWhitney Horizons\nType:Outpost",
       "x": -1921.34375,
       "y": -20.34375,
       "z": 175.625
     },
     {
       "pin": "carrier",
-      "text": "J8V-06B",
+      "text": "HIP 115542\nJ8V-06B\nType:Drake-Class Carrier",
       "x": -4364.4375,
       "y": 37.21875,
       "z": -1830.78125
     },
     {
       "pin": "outpost",
-      "text": "Gaidai Gateway",
+      "text": "North America Sector FW-W d1-93\nGaidai Gateway\nType:Outpost",
       "x": -1913.0625,
       "y": -10.53125,
       "z": 184.21875
     },
     {
       "pin": "coriolis",
-      "text": "Macdonald Gateway",
+      "text": "North America Sector FW-W d1-93\nMacdonald Gateway\nType:Coriolis Starport",
       "x": -1913.0625,
       "y": -10.53125,
       "z": 184.21875
     },
     {
       "pin": "carrier",
-      "text": "VFQ-B8X",
+      "text": "IC 1396 Sector TH-L c8-9\nVFQ-B8X\nType:Drake-Class Carrier",
       "x": -2316.09375,
       "y": -89.28125,
       "z": -566.75
     },
     {
       "pin": "carrier",
-      "text": "QZF-14Y",
+      "text": "North America Sector FW-W d1-92\nQZF-14Y\nType:Drake-Class Carrier",
       "x": -1914.28125,
       "y": -5.96875,
       "z": 173.6875
     },
     {
       "pin": "coriolis",
-      "text": "Rucker Reach",
+      "text": "North America Sector LI-S b4-2\nRucker Reach\nType:Coriolis Starport",
       "x": -1927.6875,
       "y": -12.6875,
       "z": 138.65625
     },
     {
       "pin": "planetarybase",
-      "text": "Moorcock Platform",
+      "text": "North America Sector LI-S b4-2\nMoorcock Platform\nType:Planetary Outpost",
       "x": -1927.6875,
       "y": -12.6875,
       "z": 138.65625
     },
     {
       "pin": "coriolis",
-      "text": "Heavens Gate",
+      "text": "North America Sector LI-S b4-2\nHeavens Gate\nType:Coriolis Starport",
       "x": -1927.6875,
       "y": -12.6875,
       "z": 138.65625
     },
     {
       "pin": "dodec",
-      "text": "Isilwen's Absence",
+      "text": "North America Sector LI-S b4-2\nIsilwen's Absence\nType:Dodec Starport",
       "x": -1927.6875,
       "y": -12.6875,
       "z": 138.65625
     },
     {
       "pin": "carrier",
-      "text": "W6T-22Q",
+      "text": "B352 Sector MY-Q b5-0\nW6T-22Q\nType:Drake-Class Carrier",
       "x": -1915.375,
       "y": 69.8125,
       "z": 153.3125
     },
     {
       "pin": "dodec",
-      "text": "Brahx's Big Blue Base",
+      "text": "B352 Sector MY-Q b5-0\nBrahx's Big Blue Base\nType:Dodec Starport",
       "x": -1915.375,
       "y": 69.8125,
       "z": 153.3125
     },
     {
       "pin": "carrier",
-      "text": "QBG-19H",
+      "text": "Blau Euq ON-Y c2-1\nQBG-19H\nType:Drake-Class Carrier",
       "x": -5802.46875,
       "y": 780.0625,
       "z": 4176.9375
     },
     {
       "pin": "outpost",
-      "text": "Eden Hub",
+      "text": "North America Sector HR-W d1-77\nEden Hub\nType:Outpost",
       "x": -1912.0625,
       "y": -26.84375,
       "z": 174.8125
     },
     {
       "pin": "coriolis",
-      "text": "The Chloridian Enclave",
+      "text": "North America Sector FW-W d1-86\nThe Chloridian Enclave\nType:Coriolis Starport",
       "x": -1909.40625,
       "y": -9.9375,
       "z": 173.78125
     },
     {
       "pin": "coriolis",
-      "text": "Levchenko Horizons",
+      "text": "North America Sector IH-V c2-6\nLevchenko Horizons\nType:Coriolis Starport",
       "x": -1914.1875,
       "y": 3.125,
       "z": 155.71875
     },
     {
       "pin": "outpost",
-      "text": "Carstensz Prospect",
+      "text": "North America Sector IH-V c2-6\nCarstensz Prospect\nType:Outpost",
       "x": -1914.1875,
       "y": 3.125,
       "z": 155.71875
     },
     {
       "pin": "outpost",
-      "text": "Kennedy Vision",
+      "text": "North America Sector JH-V b2-0\nKennedy Vision\nType:Outpost",
       "x": -1943,
       "y": -84.375,
       "z": 100.28125
     },
     {
       "pin": "carrier",
-      "text": "GBY-43H",
+      "text": "North America Sector GW-W d1-14\nGBY-43H\nType:Drake-Class Carrier",
       "x": -1904,
       "y": 54.71875,
       "z": 173.875
     },
     {
       "pin": "outpost",
-      "text": "Bessel Landing",
+      "text": "North America Sector FW-W d1-97\nBessel Landing\nType:Outpost",
       "x": -1905.75,
       "y": 8.4375,
       "z": 175.6875
     },
     {
       "pin": "planetarybase",
-      "text": "Stephani Terminal",
+      "text": "Sadr Region Sector PY-R b4-2\nStephani Terminal\nType:Planetary Outpost",
       "x": -1842.0625,
       "y": 21.875,
       "z": 364.8125
     },
     {
       "pin": "coriolis",
-      "text": "Lunney Vision",
+      "text": "North America Sector QO-Q b5-2\nLunney Vision\nType:Coriolis Starport",
       "x": -1912.03125,
       "y": -19.65625,
       "z": 161.375
     },
     {
       "pin": "dodec",
-      "text": "Searle Reach",
+      "text": "Pelican Sector FR-V c2-3\nSearle Reach\nType:Dodec Starport",
       "x": -1896.1875,
       "y": 97.1875,
       "z": 180.5625
     },
     {
       "pin": "dodec",
-      "text": "Beholder's Gate",
+      "text": "Plaa Eurk CS-Z c27-4\nBeholder's Gate\nType:Dodec Starport",
       "x": -1903.65625,
       "y": 106,
       "z": 157.59375
     },
     {
       "pin": "carrier",
-      "text": "QFH-10L",
+      "text": "North America Sector ZA-N b7-2\nQFH-10L\nType:Drake-Class Carrier",
       "x": -1892.5625,
       "y": -16.40625,
       "z": 205.25
     },
     {
       "pin": "dodec",
-      "text": "Vesper's End",
+      "text": "North America Sector ZA-N b7-2\nVesper's End\nType:Dodec Starport",
       "x": -1892.5625,
       "y": -16.40625,
       "z": 205.25
     },
     {
       "pin": "planetarybase",
-      "text": "Windt Vista",
+      "text": "North America Sector HR-W d1-74\nWindt Vista\nType:Planetary Outpost",
       "x": -1913.53125,
       "y": -46.53125,
       "z": 151.25
     },
     {
       "pin": "orbis",
-      "text": "Great Prospect",
+      "text": "North America Sector EC-T b4-3\nGreat Prospect\nType:Orbis Starport",
       "x": -1909.1875,
       "y": 62.15625,
       "z": 142.125
     },
     {
       "pin": "orbis",
-      "text": "Stiegler City",
+      "text": "North America Sector NN-T c3-20\nStiegler City\nType:Orbis Starport",
       "x": -1893.28125,
       "y": 9.125,
       "z": 193.6875
     },
     {
       "pin": "outpost",
-      "text": "Jarnatt Horizons",
+      "text": "North America Sector PT-Q b5-0\nJarnatt Horizons\nType:Outpost",
       "x": -1901.40625,
       "y": 7.96875,
       "z": 169.8125
     },
     {
       "pin": "carrier",
-      "text": "JLY-9KV",
+      "text": "North America Sector PT-Q b5-0\nJLY-9KV\nType:Drake-Class Carrier",
       "x": -1901.40625,
       "y": 7.96875,
       "z": 169.8125
     },
     {
       "pin": "outpost",
-      "text": "Kellogg Vision",
+      "text": "North America Sector TZ-O b6-0\nKellogg Vision\nType:Outpost",
       "x": -1899.6875,
       "y": -3.0625,
       "z": 176.34375
     },
     {
       "pin": "orbis",
-      "text": "Curie Prospect",
+      "text": "North America Sector LT-G a11-1\nCurie Prospect\nType:Orbis Starport",
       "x": -1904.71875,
       "y": -32.0625,
       "z": 168.6875
     },
     {
       "pin": "dodec",
-      "text": "Lowes Home Improvement",
+      "text": "Plaa Eurk CS-Z c27-3\nLowes Home Improvement\nType:Dodec Starport",
       "x": -1900.03125,
       "y": 110.09375,
       "z": 155.96875
     },
     {
       "pin": "carrier",
-      "text": "TZY-L7N",
+      "text": "Plaa Eurk CS-Z c27-3\nTZY-L7N\nType:Drake-Class Carrier",
       "x": -1900.03125,
       "y": 110.09375,
       "z": 155.96875
     },
     {
       "pin": "planetarybase",
-      "text": "Caesar Lab",
+      "text": "Synuefue IE-E d13-60\nCaesar Lab\nType:Planetary Outpost",
       "x": -1938.78125,
       "y": -104.40625,
       "z": 92.59375
     },
     {
       "pin": "outpost",
-      "text": "Bevan Observatory",
+      "text": "Sadr Region Sector HR-W d1-59\nBevan Observatory\nType:Outpost",
       "x": -1823.3125,
       "y": 52.78125,
       "z": 388.09375
     },
     {
       "pin": "outpost",
-      "text": "Verne Vista",
+      "text": "North America Sector PI-T c3-2\nVerne Vista\nType:Outpost",
       "x": -1893.46875,
       "y": -55.40625,
       "z": 192
     },
     {
       "pin": "outpost",
-      "text": "Toro Prospect",
+      "text": "North America Sector LD-R b5-4\nToro Prospect\nType:Outpost",
       "x": -1892.65625,
       "y": 50.28125,
       "z": 169.59375
     },
     {
       "pin": "dodec",
-      "text": "Heath's Row",
+      "text": "North America Sector GW-W d1-3\nHeath's Row\nType:Dodec Starport",
       "x": -1897.4375,
       "y": 5.21875,
       "z": 163.15625
     },
     {
       "pin": "outpost",
-      "text": "Nielsen Enterprise",
+      "text": "North America Sector LD-R b5-3\nNielsen Enterprise\nType:Outpost",
       "x": -1896.4375,
       "y": 49.625,
       "z": 157.78125
     },
     {
       "pin": "ocellus",
-      "text": "Mueller Sanctuary",
+      "text": "Synuefue TD-I c26-2\nMueller Sanctuary\nType:Ocellus Starport",
       "x": -1939.65625,
       "y": -135.125,
       "z": 84.78125
     },
     {
       "pin": "carrier",
-      "text": "H3C-06X",
+      "text": "North America Sector RO-Q b5-2\nH3C-06X\nType:Drake-Class Carrier",
       "x": -1895.375,
       "y": -8.28125,
       "z": 165.65625
     },
     {
       "pin": "orbis",
-      "text": "Aniara",
+      "text": "North America Sector IR-W d1-62\nAniara\nType:Orbis Starport",
       "x": -1892.90625,
       "y": -62.40625,
       "z": 184.0625
     },
     {
       "pin": "orbis",
-      "text": "Julias Perseverance",
+      "text": "North America Sector NY-Q b5-3\nJulias Perseverance\nType:Orbis Starport",
       "x": -1893.90625,
       "y": 18.21875,
       "z": 163.84375
     },
     {
       "pin": "outpost",
-      "text": "Chretien Terminal",
+      "text": "North America Sector RE-P b6-2\nChretien Terminal\nType:Outpost",
       "x": -1886.28125,
       "y": 21.84375,
       "z": 182.9375
     },
     {
       "pin": "coriolis",
-      "text": "Rushd Sanctuary",
+      "text": "Sadr Region Sector GW-W c1-16\nRushd Sanctuary\nType:Coriolis Starport",
       "x": -1823.84375,
       "y": 15.15625,
       "z": 373.6875
     },
     {
       "pin": "coriolis",
-      "text": "Plato Palace",
+      "text": "Sadr Region Sector GW-W c1-16\nPlato Palace\nType:Coriolis Starport",
       "x": -1823.84375,
       "y": 15.15625,
       "z": 373.6875
     },
     {
       "pin": "ocellus",
-      "text": "Messier's Folly",
+      "text": "Sadr Region Sector GW-W c1-16\nMessier's Folly\nType:Ocellus Starport",
       "x": -1823.84375,
       "y": 15.15625,
       "z": 373.6875
     },
     {
       "pin": "carrier",
-      "text": "T1K-TVX",
+      "text": "North America Sector FR-V c2-11\nT1K-TVX\nType:Drake-Class Carrier",
       "x": -1895,
       "y": 63.8125,
       "z": 150.4375
     },
     {
       "pin": "outpost",
-      "text": "Giraud's Folly",
+      "text": "Sadr Region Sector GW-W c1-14\nGiraud's Folly\nType:Outpost",
       "x": -1822.6875,
       "y": 16.78125,
       "z": 373.90625
     },
     {
       "pin": "asteroidbase",
-      "text": "Quayle Point",
+      "text": "North America Sector TZ-O b6-4\nQuayle Point\nType:Asteroid base",
       "x": -1886.875,
       "y": 5.40625,
       "z": 176.3125
     },
     {
       "pin": "outpost",
-      "text": "Neruda Observatory",
+      "text": "North America Sector JH-V c2-27\nNeruda Observatory\nType:Outpost",
       "x": -1890.4375,
       "y": 6.09375,
       "z": 166.34375
     },
     {
       "pin": "outpost",
-      "text": "Friend Relay",
+      "text": "North America Sector IR-W d1-13\nFriend Relay\nType:Outpost",
       "x": -1892.3125,
       "y": -29.34375,
       "z": 167.75
     },
     {
       "pin": "ocellus",
-      "text": "Low Point",
+      "text": "North America Sector IR-W d1-13\nLow Point\nType:Ocellus Starport",
       "x": -1892.3125,
       "y": -29.34375,
       "z": 167.75
     },
     {
       "pin": "coriolis",
-      "text": "Sharp Landing",
+      "text": "North America Sector IR-W d1-13\nSharp Landing\nType:Coriolis Starport",
       "x": -1892.3125,
       "y": -29.34375,
       "z": 167.75
     },
     {
       "pin": "carrier",
-      "text": "X8B-W5N",
+      "text": "North America Sector IR-W d1-81\nX8B-W5N\nType:Drake-Class Carrier",
       "x": -1900.625,
       "y": -34.28125,
       "z": 142.34375
     },
     {
       "pin": "coriolis",
-      "text": "Caligula Landing",
+      "text": "North America Sector IR-W d1-81\nCaligula Landing\nType:Coriolis Starport",
       "x": -1900.625,
       "y": -34.28125,
       "z": 142.34375
     },
     {
       "pin": "carrier",
-      "text": "G9M-33G",
+      "text": "North America Sector IR-W d1-81\nG9M-33G\nType:Drake-Class Carrier",
       "x": -1900.625,
       "y": -34.28125,
       "z": 142.34375
     },
     {
       "pin": "carrier",
-      "text": "V2B-05L",
+      "text": "North America Sector IR-W d1-81\nV2B-05L\nType:Drake-Class Carrier",
       "x": -1900.625,
       "y": -34.28125,
       "z": 142.34375
     },
     {
       "pin": "coriolis",
-      "text": "Rowntree Depot",
+      "text": "North America Sector IR-W d1-81\nRowntree Depot\nType:Coriolis Starport",
       "x": -1900.625,
       "y": -34.28125,
       "z": 142.34375
     },
     {
       "pin": "orbis",
-      "text": "Equiano Reach",
+      "text": "North America Sector JH-V c2-5\nEquiano Reach\nType:Orbis Starport",
       "x": -1897.34375,
       "y": -5.9375,
       "z": 144.90625
     },
     {
       "pin": "carrier",
-      "text": "J7T-7TL",
+      "text": "North America Sector NN-T c3-12\nJ7T-7TL\nType:Drake-Class Carrier",
       "x": -1885.59375,
       "y": -12.03125,
       "z": 177.28125
     },
     {
       "pin": "outpost",
-      "text": "Saunders Holdings",
+      "text": "Sadr Region Sector HR-W d1-101\nSaunders Holdings\nType:Outpost",
       "x": -1819.125,
       "y": 5.5,
       "z": 376.1875
     },
     {
       "pin": "dodec",
-      "text": "The Mermaid",
+      "text": "North America Sector FC-K a9-1\nThe Mermaid\nType:Dodec Starport",
       "x": -1895.78125,
       "y": -36.15625,
       "z": 153.90625
     },
     {
       "pin": "carrier",
-      "text": "W0N-12Q",
+      "text": "Sifi JI-K b9-2\nW0N-12Q\nType:Drake-Class Carrier",
       "x": -1794.96875,
       "y": 176.90625,
       "z": 431.5625
     },
     {
       "pin": "outpost",
-      "text": "Leeson Laboratory",
+      "text": "North America Sector LC-V c2-12\nLeeson Laboratory\nType:Outpost",
       "x": -1900.5,
       "y": -60.90625,
       "z": 139.46875
     },
     {
       "pin": "coriolis",
-      "text": "Shakespeare Terminal",
+      "text": "North America Sector LC-V c2-12\nShakespeare Terminal\nType:Coriolis Starport",
       "x": -1900.5,
       "y": -60.90625,
       "z": 139.46875
     },
     {
       "pin": "planetarybase",
-      "text": "Blanco Prospect",
+      "text": "North America Sector WK-N b7-4\nBlanco Prospect\nType:Planetary Outpost",
       "x": -1869.90625,
       "y": 30.375,
       "z": 203.90625
     },
     {
       "pin": "outpost",
-      "text": "Haise Base",
+      "text": "North America Sector LC-V c2-4\nHaise Base\nType:Outpost",
       "x": -1894.4375,
       "y": -28.09375,
       "z": 147.5625
     },
     {
       "pin": "outpost",
-      "text": "Picard Observatory",
+      "text": "North America Sector NS-T b3-5\nPicard Observatory\nType:Outpost",
       "x": -1902.125,
       "y": -64,
       "z": 134.28125
     },
     {
       "pin": "coriolis",
-      "text": "Markham Mine",
+      "text": "North America Sector GW-W d1-28\nMarkham Mine\nType:Coriolis Starport",
       "x": -1884.28125,
       "y": -8.9375,
       "z": 165.46875
     },
     {
       "pin": "outpost",
-      "text": "Wood Vista",
+      "text": "North America Sector PI-T c3-16\nWood Vista\nType:Outpost",
       "x": -1881.5625,
       "y": -29.96875,
       "z": 176.96875
     },
     {
       "pin": "ocellus",
-      "text": "Dean Depot",
+      "text": "North America Sector NI-S b4-0\nDean Depot\nType:Ocellus Starport",
       "x": -1889.65625,
       "y": -13.40625,
       "z": 151.375
     },
     {
       "pin": "outpost",
-      "text": "Barca Settlement",
+      "text": "North America Sector IR-W d1-18\nBarca Settlement\nType:Outpost",
       "x": -1887.53125,
       "y": -44.125,
       "z": 162.5
     },
     {
       "pin": "orbis",
-      "text": "Houston Depot",
+      "text": "North America Sector IR-W d1-18\nHouston Depot\nType:Orbis Starport",
       "x": -1887.53125,
       "y": -44.125,
       "z": 162.5
     },
     {
       "pin": "outpost",
-      "text": "North Pelican Watch [bne]",
+      "text": "North America Sector SO-Q b5-2\nNorth Pelican Watch [bne]\nType:Outpost",
       "x": -1881.53125,
       "y": -21.59375,
       "z": 172.65625
     },
     {
       "pin": "carrier",
-      "text": "KFH-8HZ",
+      "text": "North America Sector RO-Q b5-4\nKFH-8HZ\nType:Drake-Class Carrier",
       "x": -1887.8125,
       "y": -21.3125,
       "z": 155.34375
     },
     {
       "pin": "outpost",
-      "text": "Crane Terminal",
+      "text": "North America Sector RO-Q b5-4\nCrane Terminal\nType:Outpost",
       "x": -1887.8125,
       "y": -21.3125,
       "z": 155.34375
     },
     {
       "pin": "outpost",
-      "text": "Low Terminal",
+      "text": "North America Sector IR-W d1-82\nLow Terminal\nType:Outpost",
       "x": -1883.25,
       "y": -27.03125,
       "z": 168.53125
     },
     {
       "pin": "outpost",
-      "text": "Snow Lab",
+      "text": "North America Sector AB-N b7-2\nSnow Lab\nType:Outpost",
       "x": -1872.5625,
       "y": -22.90625,
       "z": 196.5
     },
     {
       "pin": "coriolis",
-      "text": "Patrick Depot",
+      "text": "North America Sector LC-V c2-2\nPatrick Depot\nType:Coriolis Starport",
       "x": -1888.34375,
       "y": -25.375,
       "z": 148.875
     },
     {
       "pin": "orbis",
-      "text": "Pulsarshark Memorial Gardens",
+      "text": "North America Sector NS-T b3-3\nPulsarshark Memorial Gardens\nType:Orbis Starport",
       "x": -1895.9375,
       "y": -49.59375,
       "z": 134.09375
     },
     {
       "pin": "outpost",
-      "text": "Hiraga's Pride",
+      "text": "North America Sector NS-T b3-3\nHiraga's Pride\nType:Outpost",
       "x": -1895.9375,
       "y": -49.59375,
       "z": 134.09375
     },
     {
       "pin": "outpost",
-      "text": "Watson Observatory",
+      "text": "North America Sector NT-G a11-1\nWatson Observatory\nType:Outpost",
       "x": -1881.71875,
       "y": -31.21875,
       "z": 167.40625
     },
     {
       "pin": "outpost",
-      "text": "Jenner Platform",
+      "text": "North America Sector IR-W d1-15\nJenner Platform\nType:Outpost",
       "x": -1880.53125,
       "y": -39.84375,
       "z": 172.25
     },
     {
       "pin": "outpost",
-      "text": "Pei Gateway",
+      "text": "North America Sector AB-M a8-1\nPei Gateway\nType:Outpost",
       "x": -1892.28125,
       "y": -32.6875,
       "z": 138.125
     },
     {
       "pin": "coriolis",
-      "text": "Sapochnik Vista",
+      "text": "North America Sector AB-M a8-1\nSapochnik Vista\nType:Coriolis Starport",
       "x": -1892.28125,
       "y": -32.6875,
       "z": 138.125
     },
     {
       "pin": "outpost",
-      "text": "Avdeyev Platform",
+      "text": "North America Sector PI-T c3-14\nAvdeyev Platform\nType:Outpost",
       "x": -1877.40625,
       "y": -27.9375,
       "z": 175.625
     },
     {
       "pin": "planetarybase",
-      "text": "Lagadha Horizons",
+      "text": "North America Sector XK-N b7-1\nLagadha Horizons\nType:Planetary Outpost",
       "x": -1863.1875,
       "y": 24.46875,
       "z": 203.3125
     },
     {
       "pin": "outpost",
-      "text": "Wilcox Beacon",
+      "text": "North America Sector GW-W d1-15\nWilcox Beacon\nType:Outpost",
       "x": -1873.0625,
       "y": -0.21875,
       "z": 176.1875
     },
     {
       "pin": "orbis",
-      "text": "Jan Adriaanszoon Leeghwater Terminal",
+      "text": "Sadr Region Sector BQ-Y d79\nJan Adriaanszoon Leeghwater Terminal\nType:Orbis Starport",
       "x": -1804.375,
       "y": 60.21875,
       "z": 361.6875
     },
     {
       "pin": "coriolis",
-      "text": "Sadr Innovation Terminal",
+      "text": "Sadr Region Sector BQ-Y d79\nSadr Innovation Terminal\nType:Coriolis Starport",
       "x": -1804.375,
       "y": 60.21875,
       "z": 361.6875
     },
     {
       "pin": "ocellus",
-      "text": "Meuse Valley Refinery Complex",
+      "text": "Sadr Region Sector BQ-Y d79\nMeuse Valley Refinery Complex\nType:Ocellus Starport",
       "x": -1804.375,
       "y": 60.21875,
       "z": 361.6875
     },
     {
       "pin": "planetarybase",
-      "text": "Bailey City",
+      "text": "Sadr Region Sector BQ-Y d79\nBailey City\nType:Planetary Outpost",
       "x": -1804.375,
       "y": 60.21875,
       "z": 361.6875
     },
     {
       "pin": "outpost",
-      "text": "Eyharts Base",
+      "text": "North America Sector BB-M a8-1\nEyharts Base\nType:Outpost",
       "x": -1882.59375,
       "y": -29.8125,
       "z": 137.5625
     },
     {
       "pin": "outpost",
-      "text": "Atanes Observatory",
+      "text": "North America Sector HW-W c1-16\nAtanes Observatory\nType:Outpost",
       "x": -1891.25,
       "y": -60.09375,
       "z": 120
     },
     {
       "pin": "orbis",
-      "text": "Hornby Settlement",
+      "text": "North America Sector ON-T c3-6\nHornby Settlement\nType:Orbis Starport",
       "x": -1863.75,
       "y": -7.4375,
       "z": 182.1875
     },
     {
       "pin": "outpost",
-      "text": "Borman Prospect",
+      "text": "North America Sector EL-Y d73\nBorman Prospect\nType:Outpost",
       "x": -1889.65625,
       "y": -39.6875,
       "z": 118.15625
     },
     {
       "pin": "orbis",
-      "text": "Your Mom",
+      "text": "North America Sector EL-Y d73\nYour Mom\nType:Orbis Starport",
       "x": -1889.65625,
       "y": -39.6875,
       "z": 118.15625
     },
     {
       "pin": "dodec",
-      "text": "Aurora Station",
+      "text": "Sadr Region Sector DL-Y d44\nAurora Station\nType:Dodec Starport",
       "x": -1820.3125,
       "y": 23.3125,
       "z": 303.40625
     },
     {
       "pin": "carrier",
-      "text": "G9L-GVV",
+      "text": "Sadr Region Sector EG-X b1-3\nG9L-GVV\nType:Drake-Class Carrier",
       "x": -1821.59375,
       "y": 17.65625,
       "z": 299.78125
     },
     {
       "pin": "outpost",
-      "text": "Arago 90 Ojke",
+      "text": "Sadr Region Sector EG-X b1-3\nArago 90 Ojke\nType:Outpost",
       "x": -1821.59375,
       "y": 17.65625,
       "z": 299.78125
     },
     {
       "pin": "carrier",
-      "text": "W5T-97T",
+      "text": "Sadr Region Sector EG-X b1-3\nW5T-97T\nType:Drake-Class Carrier",
       "x": -1821.59375,
       "y": 17.65625,
       "z": 299.78125
     },
     {
       "pin": "orbis",
-      "text": "Ashby Gateway",
+      "text": "Sadr Region Sector GW-W c1-10\nAshby Gateway\nType:Orbis Starport",
       "x": -1802.03125,
       "y": 53.4375,
       "z": 356.78125
     },
     {
       "pin": "carrier",
-      "text": "H5V-56X",
+      "text": "North America Sector OI-S b4-5\nH5V-56X\nType:Drake-Class Carrier",
       "x": -1876.21875,
       "y": -10.15625,
       "z": 145.15625
     },
     {
       "pin": "outpost",
-      "text": "Laughlin Lab",
+      "text": "North America Sector OI-S b4-5\nLaughlin Lab\nType:Outpost",
       "x": -1876.21875,
       "y": -10.15625,
       "z": 145.15625
     },
     {
       "pin": "carrier",
-      "text": "T9Z-2XH",
+      "text": "North America Sector LC-V c2-16\nT9Z-2XH\nType:Drake-Class Carrier",
       "x": -1879.9375,
       "y": -39.46875,
       "z": 138.59375
     },
     {
       "pin": "dodec",
-      "text": "The Crystal Citadel",
+      "text": "North America Sector XU-O b6-5\nThe Crystal Citadel\nType:Dodec Starport",
       "x": -1863.375,
       "y": -13.875,
       "z": 177.78125
     },
     {
       "pin": "outpost",
-      "text": "Besonders City",
+      "text": "Sadr Region Sector DL-Y d118\nBesonders City\nType:Outpost",
       "x": -1795.5,
       "y": 45.1875,
       "z": 371.125
     },
     {
       "pin": "outpost",
-      "text": "Asami Horizons",
+      "text": "North America Sector OS-T b3-1\nAsami Horizons\nType:Outpost",
       "x": -1881.90625,
       "y": -59,
       "z": 133.15625
     },
     {
       "pin": "outpost",
-      "text": "Martino Terminal",
+      "text": "Sadr Region Sector DL-Y d119\nMartino Terminal\nType:Outpost",
       "x": -1795.3125,
       "y": 52.03125,
       "z": 367.90625
     },
     {
       "pin": "outpost",
-      "text": "Smatting Delvers",
+      "text": "North America Sector OS-T b3-2\nSmatting Delvers\nType:Outpost",
       "x": -1880.90625,
       "y": -60.28125,
       "z": 134.0625
     },
     {
       "pin": "carrier",
-      "text": "TLT-55Y",
+      "text": "Sadr\nTLT-55Y\nType:Drake-Class Carrier",
       "x": -1794.6875,
       "y": 53.6875,
       "z": 365.84375
     },
     {
       "pin": "orbis",
-      "text": "Sadr Hexers Watch",
+      "text": "Sadr\nSadr Hexers Watch\nType:Orbis Starport",
       "x": -1794.6875,
       "y": 53.6875,
       "z": 365.84375
     },
     {
       "pin": "carrier",
-      "text": "QBN-BTZ",
+      "text": "North America Sector BQ-X b1-3\nQBN-BTZ\nType:Drake-Class Carrier",
       "x": -1892.0625,
       "y": -9.125,
       "z": 92.03125
     },
     {
       "pin": "ocellus",
-      "text": "Hyecho City",
+      "text": "Sadr Region Sector WU-O b6-4\nHyecho City\nType:Ocellus Starport",
       "x": -1783.6875,
       "y": 59.78125,
       "z": 400.78125
     },
     {
       "pin": "carrier",
-      "text": "K9L-05M",
+      "text": "Sadr Region Sector WU-O b6-4\nK9L-05M\nType:Drake-Class Carrier",
       "x": -1783.6875,
       "y": 59.78125,
       "z": 400.78125
     },
     {
       "pin": "orbis",
-      "text": "Honeybadger3",
+      "text": "North America Sector EL-Y d31\nHoneybadger3\nType:Orbis Starport",
       "x": -1881.21875,
       "y": -35.0625,
       "z": 122.96875
     },
     {
       "pin": "orbis",
-      "text": "Dopeimus Station",
+      "text": "North America Sector EL-Y d31\nDopeimus Station\nType:Orbis Starport",
       "x": -1881.21875,
       "y": -35.0625,
       "z": 122.96875
     },
     {
       "pin": "carrier",
-      "text": "TBM-B3J",
+      "text": "Sadr Region Sector GW-W c1-22\nTBM-B3J\nType:Drake-Class Carrier",
       "x": -1792.125,
       "y": 52.65625,
       "z": 369.5625
     },
     {
       "pin": "asteroidbase",
-      "text": "Sadr Logistics Depot",
+      "text": "Sadr Region Sector GW-W c1-22\nSadr Logistics Depot\nType:Asteroid base",
       "x": -1792.125,
       "y": 52.65625,
       "z": 369.5625
     },
     {
       "pin": "outpost",
-      "text": "Bne - Sadr Watch",
+      "text": "Sadr Region Sector NI-S b4-3\nBne - Sadr Watch\nType:Outpost",
       "x": -1792.125,
       "y": 56.375,
       "z": 368.75
     },
     {
       "pin": "coriolis",
-      "text": "Farghani's Pride",
+      "text": "North America Sector IR-W d1-80\nFarghani's Pride\nType:Coriolis Starport",
       "x": -1866.28125,
       "y": -40.625,
       "z": 161.90625
     },
     {
       "pin": "outpost",
-      "text": "Aja Prospect",
+      "text": "North America Sector IR-W d1-80\nAja Prospect\nType:Outpost",
       "x": -1866.28125,
       "y": -40.625,
       "z": 161.90625
     },
     {
       "pin": "carrier",
-      "text": "K9V-60Z",
+      "text": "North America Sector EL-Y d49\nK9V-60Z\nType:Drake-Class Carrier",
       "x": -1882.9375,
       "y": -37.40625,
       "z": 111.875
     },
     {
       "pin": "asteroidbase",
-      "text": "Koishikawa Platform",
+      "text": "North America Sector EL-Y d49\nKoishikawa Platform\nType:Asteroid base",
       "x": -1882.9375,
       "y": -37.40625,
       "z": 111.875
     },
     {
       "pin": "outpost",
-      "text": "Akiyama Depot",
+      "text": "North America Sector EL-Y d49\nAkiyama Depot\nType:Outpost",
       "x": -1882.9375,
       "y": -37.40625,
       "z": 111.875
     },
     {
       "pin": "orbis",
-      "text": "Teresa Point",
+      "text": "Sadr Region Sector BQ-Y d77\nTeresa Point\nType:Orbis Starport",
       "x": -1790.75,
       "y": 63.28125,
       "z": 363.28125
     },
     {
       "pin": "asteroidbase",
-      "text": "Foreman Terminal",
+      "text": "North America Sector TO-Q b5-5\nForeman Terminal\nType:Asteroid base",
       "x": -1862.125,
       "y": -20.46875,
       "z": 161.625
     },
     {
       "pin": "planetarybase",
-      "text": "Nightingale Beacon",
+      "text": "Sadr Region Sector DL-Y d19\nNightingale Beacon\nType:Planetary Outpost",
       "x": -1812.75,
       "y": 9.40625,
       "z": 298.25
     },
     {
       "pin": "carrier",
-      "text": "WLW-T7V",
+      "text": "North America Sector OS-T b3-3\nWLW-T7V\nType:Drake-Class Carrier",
       "x": -1876.8125,
       "y": -58.28125,
       "z": 121.28125
     },
     {
       "pin": "outpost",
-      "text": "Macmillan Terminal",
+      "text": "North America Sector OS-T b3-3\nMacmillan Terminal\nType:Outpost",
       "x": -1876.8125,
       "y": -58.28125,
       "z": 121.28125
     },
     {
       "pin": "coriolis",
-      "text": "Vernors Deep",
+      "text": "North America Sector OS-T b3-3\nVernors Deep\nType:Coriolis Starport",
       "x": -1876.8125,
       "y": -58.28125,
       "z": 121.28125
     },
     {
       "pin": "ocellus",
-      "text": "Littrow Mine",
+      "text": "North America Sector HW-W c1-2\nLittrow Mine\nType:Ocellus Starport",
       "x": -1876.9375,
       "y": -61.53125,
       "z": 120.96875
     },
     {
       "pin": "orbis",
-      "text": "Everest City",
+      "text": "North America Sector MC-V c2-2\nEverest City\nType:Orbis Starport",
       "x": -1857.6875,
       "y": -32,
       "z": 154.96875
     },
     {
       "pin": "outpost",
-      "text": "Twyman Observatory",
+      "text": "North America Sector QN-T b3-2\nTwyman Observatory\nType:Outpost",
       "x": -1873.1875,
       "y": -65.9375,
       "z": 119.0625
     },
     {
       "pin": "dodec",
-      "text": "Crumey Depot",
+      "text": "North America Sector HW-W c1-1\nCrumey Depot\nType:Dodec Starport",
       "x": -1870.9375,
       "y": -62.96875,
       "z": 120.5625
     },
     {
       "pin": "carrier",
-      "text": "WLM-9QF",
+      "text": "Ploea Eurk PJ-I d9-12\nWLM-9QF\nType:Drake-Class Carrier",
       "x": -7643.3125,
       "y": -2.5,
       "z": -261.8125
     },
     {
       "pin": "carrier",
-      "text": "V1G-T5B",
+      "text": "Outott CK-I c9-1\nV1G-T5B\nType:Drake-Class Carrier",
       "x": -4604.09375,
       "y": 3.03125,
       "z": -1924.21875
     },
     {
       "pin": "orbis",
-      "text": "Gooch Prospect",
+      "text": "North America Sector PS-T b3-2\nGooch Prospect\nType:Orbis Starport",
       "x": -1854.6875,
       "y": -62.625,
       "z": 126.65625
     },
     {
       "pin": "carrier",
-      "text": "B7G-BVV",
+      "text": "Prooe Drye MS-F c19\nB7G-BVV\nType:Drake-Class Carrier",
       "x": -1815.9375,
       "y": -77.4375,
       "z": 237.90625
     },
     {
       "pin": "outpost",
-      "text": "Messier Vista",
+      "text": "Sadr Region Sector IB-X b1-3\nMessier Vista\nType:Outpost",
       "x": -1784.28125,
       "y": 9.53125,
       "z": 311.59375
     },
     {
       "pin": "outpost",
-      "text": "Gill Camp",
+      "text": "Sadr Region Sector DQ-Y c9\nGill Camp\nType:Outpost",
       "x": -1784.5625,
       "y": 21.21875,
       "z": 307.1875
     },
     {
       "pin": "dodec",
-      "text": "Atlantis",
+      "text": "Sadr Region Sector DL-Y d70\nAtlantis\nType:Dodec Starport",
       "x": -1779.875,
       "y": 18.5,
       "z": 322.40625
     },
     {
       "pin": "orbis",
-      "text": "Bendell Beacon",
+      "text": "Prooe Drye GW-C d63\nBendell Beacon\nType:Orbis Starport",
       "x": -1815.9375,
       "y": -70.40625,
       "z": 223.53125
     },
     {
       "pin": "carrier",
-      "text": "V7X-1VV",
+      "text": "Bleae Eurk AC-B d1-2\nV7X-1VV\nType:Drake-Class Carrier",
       "x": -3869.84375,
       "y": 1196.5,
       "z": 4149.0625
     },
     {
       "pin": "carrier",
-      "text": "K6N-90Z",
+      "text": "Pro Thua AF-Q d5-5\nK6N-90Z\nType:Drake-Class Carrier",
       "x": -5623.78125,
       "y": 325.375,
       "z": -1862.90625
     },
     {
       "pin": "orbis",
-      "text": "Aisling Onlyfans Hq West",
+      "text": "North America Sector PN-T c3-14\nAisling Onlyfans Hq West\nType:Orbis Starport",
       "x": -1813.09375,
       "y": -19.21875,
       "z": 200.65625
     },
     {
       "pin": "carrier",
-      "text": "V0X-B0W",
+      "text": "Blau Euq RO-X c2-3\nV0X-B0W\nType:Drake-Class Carrier",
       "x": -6099.375,
       "y": 579.6875,
       "z": 4192.0625
     },
     {
       "pin": "outpost",
-      "text": "Forever I Thank You Almighty God",
+      "text": "Prooe Drye KX-F c11\nForever I Thank You Almighty God\nType:Outpost",
       "x": -1798.375,
       "y": -35.28125,
       "z": 231.34375
     },
     {
       "pin": "orbis",
-      "text": "Alleluia To The King Of Kings",
+      "text": "Prooe Drye KX-F c11\nAlleluia To The King Of Kings\nType:Orbis Starport",
       "x": -1798.375,
       "y": -35.28125,
       "z": 231.34375
     },
     {
       "pin": "carrier",
-      "text": "V8Y-0KY",
+      "text": "Sifi JH-I c11-0\nV8Y-0KY\nType:Drake-Class Carrier",
       "x": -1703.6875,
       "y": 698.34375,
       "z": 695.875
     },
     {
       "pin": "ocellus",
-      "text": "Judson Vista",
+      "text": "Sifi XS-U d2-39\nJudson Vista\nType:Ocellus Starport",
       "x": -1703.65625,
       "y": 40.4375,
       "z": 514.9375
     },
     {
       "pin": "orbis",
-      "text": "Queens Gambit",
+      "text": "Pelican Sector FL-Y d4\nQueens Gambit\nType:Orbis Starport",
       "x": -1801.28125,
       "y": -16.21875,
       "z": 185.75
     },
     {
       "pin": "outpost",
-      "text": "Gromov Landing",
+      "text": "Pelican Sector FL-Y d4\nGromov Landing\nType:Outpost",
       "x": -1801.28125,
       "y": -16.21875,
       "z": 185.75
     },
     {
       "pin": "outpost",
-      "text": "Athyrta Observatory",
+      "text": "Sifi YN-W b1-3\nAthyrta Observatory\nType:Outpost",
       "x": -1771.09375,
       "y": -7.40625,
       "z": 267.5625
     },
     {
       "pin": "outpost",
-      "text": "Vercors Observatory",
+      "text": "Sifi PB-A b0\nVercors Observatory\nType:Outpost",
       "x": -1785.53125,
       "y": -18.53125,
       "z": 221.78125
     },
     {
       "pin": "carrier",
-      "text": "W8Q-48Z",
+      "text": "Sifi KA-A d19\nW8Q-48Z\nType:Drake-Class Carrier",
       "x": -1769.65625,
       "y": -15.65625,
       "z": 263.0625
     },
     {
       "pin": "orbis",
-      "text": "Pike's Pride",
+      "text": "Sifi XW-N c6-20\nPike's Pride\nType:Orbis Starport",
       "x": -1696.1875,
       "y": 45.875,
       "z": 510.96875
     },
     {
       "pin": "outpost",
-      "text": "Rosenthal Horizons",
+      "text": "Sifi YN-W b1-2\nRosenthal Horizons\nType:Outpost",
       "x": -1771.6875,
       "y": -19.59375,
       "z": 255.40625
     },
     {
       "pin": "carrier",
-      "text": "X8K-W2Q",
+      "text": "Outordy IX-W b43-0\nX8K-W2Q\nType:Drake-Class Carrier",
       "x": -2974.9375,
       "y": 165.4375,
       "z": -1392.46875
     },
     {
       "pin": "outpost",
-      "text": "Pannekoek Vista",
+      "text": "Synuefue ON-N a116-0\nPannekoek Vista\nType:Outpost",
       "x": -1783.34375,
       "y": -28.96875,
       "z": 182.625
     },
     {
       "pin": "outpost",
-      "text": "Gotlieb Beacon",
+      "text": "Sifi TQ-P c5-3\nGotlieb Beacon\nType:Outpost",
       "x": -1671.96875,
       "y": 45.15625,
       "z": 480.09375
     },
     {
       "pin": "coriolis",
-      "text": "Feoktistov Reach",
+      "text": "Plaa Eurk LD-Z c27-3\nFeoktistov Reach\nType:Coriolis Starport",
       "x": -1755.9375,
       "y": -7.40625,
       "z": 159.6875
     },
     {
       "pin": "coriolis",
-      "text": "Bao's Inheritance",
+      "text": "Prooe Drye HW-C d67\nBao's Inheritance\nType:Coriolis Starport",
       "x": -1722.90625,
       "y": -27.84375,
       "z": 261.84375
     },
     {
       "pin": "orbis",
-      "text": "[edf] Indsturial Complex",
+      "text": "Plaa Eurk LD-Z c27-9\n[edf] Indsturial Complex\nType:Orbis Starport",
       "x": -1754.96875,
       "y": -9.46875,
       "z": 158.59375
     },
     {
       "pin": "dodec",
-      "text": "Berezin Platform",
+      "text": "Plaa Eurk LD-Z c27-9\nBerezin Platform\nType:Dodec Starport",
       "x": -1754.96875,
       "y": -9.46875,
       "z": 158.59375
     },
     {
       "pin": "coriolis",
-      "text": "Machulski Terminal",
+      "text": "Prooe Drye HW-C d55\nMachulski Terminal\nType:Coriolis Starport",
       "x": -1712.34375,
       "y": -55.9375,
       "z": 284.8125
     },
     {
       "pin": "outpost",
-      "text": "Belyavsky Relay",
+      "text": "Prooe Drye HW-C d55\nBelyavsky Relay\nType:Outpost",
       "x": -1712.34375,
       "y": -55.9375,
       "z": 284.8125
     },
     {
       "pin": "carrier",
-      "text": "KHJ-6TL",
+      "text": "Plaa Eurk LD-Z c27-12\nKHJ-6TL\nType:Drake-Class Carrier",
       "x": -1752.6875,
       "y": -14.6875,
       "z": 148.84375
     },
     {
       "pin": "orbis",
-      "text": "Lepso's Gate",
+      "text": "Plaa Eurk LD-Z c27-12\nLepso's Gate\nType:Orbis Starport",
       "x": -1752.6875,
       "y": -14.6875,
       "z": 148.84375
     },
     {
       "pin": "dodec",
-      "text": "Yamamoto Terminal",
+      "text": "Plaa Eurk CN-W b56-4\nYamamoto Terminal\nType:Dodec Starport",
       "x": -1738.96875,
       "y": -22.59375,
       "z": 160.9375
     },
     {
       "pin": "coriolis",
-      "text": "Badawi Vista",
+      "text": "Plaa Eurk CN-W b56-4\nBadawi Vista\nType:Coriolis Starport",
       "x": -1738.96875,
       "y": -22.59375,
       "z": 160.9375
     },
     {
       "pin": "dodec",
-      "text": "[edf] Orbital Refinery",
+      "text": "Synuefue TN-N a116-2\n[edf] Orbital Refinery\nType:Dodec Starport",
       "x": -1734.0625,
       "y": -28.40625,
       "z": 175.21875
     },
     {
       "pin": "dodec",
-      "text": "Kevin Wayne Memorial",
+      "text": "Cave Sector IH-V c2-2\nKevin Wayne Memorial\nType:Dodec Starport",
       "x": -2270.5,
       "y": 104.40625,
       "z": -818.78125
     },
     {
       "pin": "carrier",
-      "text": "H0Y-L1B",
+      "text": "Cave Sector IH-V c2-1\nH0Y-L1B\nType:Drake-Class Carrier",
       "x": -2266.28125,
       "y": 108.53125,
       "z": -814.1875
     },
     {
       "pin": "outpost",
-      "text": "Turing Prospect",
+      "text": "Prooe Drye TO-E b4-5\nTuring Prospect\nType:Outpost",
       "x": -1674.6875,
       "y": -75.59375,
       "z": 314.9375
     },
     {
       "pin": "dodec",
-      "text": "Stirzaker Cave Water Vistas",
+      "text": "Cave Sector HR-W d1-4\nStirzaker Cave Water Vistas\nType:Dodec Starport",
       "x": -2248.53125,
       "y": 127.0625,
       "z": -813.875
     },
     {
       "pin": "orbis",
-      "text": "Fleder Enterprise",
+      "text": "Prooe Drye SD-Z d1-27\nFleder Enterprise\nType:Orbis Starport",
       "x": -1653.90625,
       "y": -112.84375,
       "z": 383.53125
     },
     {
       "pin": "carrier",
-      "text": "XLB-7XZ",
+      "text": "Sifi FL-Y b14-2\nXLB-7XZ\nType:Drake-Class Carrier",
       "x": -1595.1875,
       "y": 48.5625,
       "z": 543.1875
     },
     {
       "pin": "carrier",
-      "text": "TRCG",
+      "text": "Cave Sector DL-Y d30\nTRCG\nType:Drake-Class Carrier",
       "x": -2254.1875,
       "y": 99.6875,
       "z": -840.625
     },
     {
       "pin": "orbis",
-      "text": "Grothendieck Landing",
+      "text": "Cave Sector DL-Y d30\nGrothendieck Landing\nType:Orbis Starport",
       "x": -2254.1875,
       "y": 99.6875,
       "z": -840.625
     },
     {
       "pin": "planetarybase",
-      "text": "Saarinen Camp",
+      "text": "Cave Sector FB-X c1-6\nSaarinen Camp\nType:Planetary Outpost",
       "x": -2242.375,
       "y": 107.28125,
       "z": -828.09375
     },
     {
       "pin": "planetarybase",
-      "text": "Henry Enterprise",
+      "text": "Prooe Drye LX-Y b6-3\nHenry Enterprise\nType:Planetary Outpost",
       "x": -1644.65625,
       "y": -112.03125,
       "z": 368.03125
     },
     {
       "pin": "carrier",
-      "text": "G1Y-N3N",
+      "text": "Thailoea GX-S d4-17\nG1Y-N3N\nType:Drake-Class Carrier",
       "x": -4810.71875,
       "y": -533,
       "z": 4501.375
     },
     {
       "pin": "planetarybase",
-      "text": "Bagian Base",
+      "text": "Cave Sector FB-X c1-9\nBagian Base\nType:Planetary Outpost",
       "x": -2243,
       "y": 116.40625,
       "z": -833.46875
     },
     {
       "pin": "carrier",
-      "text": "J0K-THW",
+      "text": "Cave Sector HW-W c1-11\nJ0K-THW\nType:Drake-Class Carrier",
       "x": -2239.53125,
       "y": 93.09375,
       "z": -831.25
     },
     {
       "pin": "coriolis",
-      "text": "Diamond Terminal",
+      "text": "Cave Sector HW-W c1-11\nDiamond Terminal\nType:Coriolis Starport",
       "x": -2239.53125,
       "y": 93.09375,
       "z": -831.25
     },
     {
       "pin": "outpost",
-      "text": "Great Hub",
+      "text": "Cave Sector HW-W c1-11\nGreat Hub\nType:Outpost",
       "x": -2239.53125,
       "y": 93.09375,
       "z": -831.25
     },
     {
       "pin": "orbis",
-      "text": "Boulton's Pride",
+      "text": "Prooe Drye MC-B d1-15\nBoulton's Pride\nType:Orbis Starport",
       "x": -1647.6875,
       "y": -63.5,
       "z": 329.34375
     },
     {
       "pin": "planetarybase",
-      "text": "Rangarajan Lab",
+      "text": "Cave Sector DL-Y d8\nRangarajan Lab\nType:Planetary Outpost",
       "x": -2251.03125,
       "y": 97.96875,
       "z": -852.4375
     },
     {
       "pin": "planetarybase",
-      "text": "Meade Relay",
+      "text": "Prooe Drye JC-Z b6-2\nMeade Relay\nType:Planetary Outpost",
       "x": -1636.5,
       "y": -100.65625,
       "z": 365.65625
     },
     {
       "pin": "coriolis",
-      "text": "Requiem Cygni",
+      "text": "Prooe Drye PN-W c4-8\nRequiem Cygni\nType:Coriolis Starport",
       "x": -1623.5,
       "y": -178.6875,
       "z": 420.03125
     },
     {
       "pin": "outpost",
-      "text": "Webster Enterprise",
+      "text": "Prooe Drye ZU-C b5-2\nWebster Enterprise\nType:Outpost",
       "x": -1637.90625,
       "y": -74.6875,
       "z": 327.40625
     },
     {
       "pin": "outpost",
-      "text": "Barcelos Platform",
+      "text": "Cave Sector SY-R b4-0\nBarcelos Platform\nType:Outpost",
       "x": -2232.21875,
       "y": 80.0625,
       "z": -840.6875
     },
     {
       "pin": "carrier",
-      "text": "T3G-B4X",
+      "text": "Cave Sector GB-X b1-1\nT3G-B4X\nType:Drake-Class Carrier",
       "x": -2277.625,
       "y": 56.125,
       "z": -895.78125
     },
     {
       "pin": "planetarybase",
-      "text": "Burstein Hub",
+      "text": "Cave Sector DQ-Y c4\nBurstein Hub\nType:Planetary Outpost",
       "x": -2256.25,
       "y": 55.15625,
       "z": -894.125
     },
     {
       "pin": "carrier",
-      "text": "LIGO",
+      "text": "Plaa Eurk IS-Z c27-10\nLIGO\nType:Drake-Class Carrier",
       "x": -1641.625,
       "y": 130.71875,
       "z": 160.375
     },
     {
       "pin": "carrier",
-      "text": "T8Y-L9H",
+      "text": "Outott ME-H b10-2\nT8Y-L9H\nType:Drake-Class Carrier",
       "x": -5172.9375,
       "y": 49.71875,
       "z": -2115.625
     },
     {
       "pin": "carrier",
-      "text": "HFW-G4Y",
+      "text": "Outott MU-I b9-2\nHFW-G4Y\nType:Drake-Class Carrier",
       "x": -4609.84375,
       "y": 17.84375,
       "z": -2130.8125
     },
     {
       "pin": "outpost",
-      "text": "Deodato Platform",
+      "text": "Prooe Drye GG-A c3-15\nDeodato Platform\nType:Outpost",
       "x": -1576.34375,
       "y": -119.40625,
       "z": 359.125
     },
     {
       "pin": "carrier",
-      "text": "W3H-78N",
+      "text": "HIP 102552\nW3H-78N\nType:Drake-Class Carrier",
       "x": -1592.625,
       "y": -100.375,
       "z": 294.4375
     },
     {
       "pin": "outpost",
-      "text": "Levi-Strauss Platform",
+      "text": "Prooe Drye PX-A d1-55\nLevi-Strauss Platform\nType:Outpost",
       "x": -1574.09375,
       "y": -113.84375,
       "z": 345.3125
     },
     {
       "pin": "carrier",
-      "text": "G2W-18B",
+      "text": "Synuefue PU-T c5-2\nG2W-18B\nType:Drake-Class Carrier",
       "x": -2162.25,
       "y": -363.09375,
       "z": -791
     },
     {
       "pin": "coriolis",
-      "text": "Mizuno Prospect",
+      "text": "Prooe Drye LM-Y c3-0\nMizuno Prospect\nType:Coriolis Starport",
       "x": -1542.96875,
       "y": -136.25,
       "z": 383.75
     },
     {
       "pin": "outpost",
-      "text": "Lindgren Platform",
+      "text": "Plaa Eurk CP-R c4-6\nLindgren Platform\nType:Outpost",
       "x": -2131.96875,
       "y": 61.3125,
       "z": -848.5
     },
     {
       "pin": "outpost",
-      "text": "Volterra Terminal",
+      "text": "Prooe Drye UD-Z d1-3\nVolterra Terminal\nType:Outpost",
       "x": -1504.8125,
       "y": -153.0625,
       "z": 383.53125
     },
     {
       "pin": "carrier",
-      "text": "V2L-96Z",
+      "text": "Prooe Drye TM-D c12-0\nV2L-96Z\nType:Drake-Class Carrier",
       "x": -1693.34375,
       "y": -1185.78125,
       "z": 746.25
     },
     {
       "pin": "outpost",
-      "text": "Mazzini Installation",
+      "text": "Veil West Sector LD-S b4-3\nMazzini Installation\nType:Outpost",
       "x": -1478.5625,
       "y": -195.09375,
       "z": 421.1875
     },
     {
       "pin": "coriolis",
-      "text": "-[] Usr == Sys []- Synapse Gate",
+      "text": "Veil West Sector CL-Y d55\n-[] Usr == Sys []- Synapse Gate\nType:Coriolis Starport",
       "x": -1472.09375,
       "y": -199.1875,
       "z": 428.5625
     },
     {
       "pin": "dodec",
-      "text": "Silent Witness",
+      "text": "Veil West Sector CL-Y d55\nSilent Witness\nType:Dodec Starport",
       "x": -1472.09375,
       "y": -199.1875,
       "z": 428.5625
     },
     {
       "pin": "coriolis",
-      "text": "- - - - - Broken Mirror Passage - - - - -",
+      "text": "Veil West Sector CL-Y d55\n- - - - - Broken Mirror Passage - - - - -\nType:Coriolis Starport",
       "x": -1472.09375,
       "y": -199.1875,
       "z": 428.5625
     },
     {
       "pin": "orbis",
-      "text": "Silent Witness - Threshold Hub",
+      "text": "Veil West Sector CL-Y d55\nSilent Witness - Threshold Hub\nType:Orbis Starport",
       "x": -1472.09375,
       "y": -199.1875,
       "z": 428.5625
     },
     {
       "pin": "outpost",
-      "text": "Prometheus",
+      "text": "Veil West Sector CL-Y d55\nPrometheus\nType:Outpost",
       "x": -1472.09375,
       "y": -199.1875,
       "z": 428.5625
     },
     {
       "pin": "outpost",
-      "text": "Hilmers Base",
+      "text": "Veil West Sector MD-S b4-0\nHilmers Base\nType:Outpost",
       "x": -1464.0625,
       "y": -199.96875,
       "z": 420.3125
     },
     {
       "pin": "carrier",
-      "text": "KFG-G9K",
+      "text": "Ootokh HV-C b43-0\nKFG-G9K\nType:Drake-Class Carrier",
       "x": -6921.53125,
       "y": -683.78125,
       "z": -1422.6875
     },
     {
       "pin": "carrier",
-      "text": "7062",
+      "text": "Sifi VQ-I b41-0\n7062\nType:Drake-Class Carrier",
       "x": -1396.21875,
       "y": 837.75,
       "z": 1110.34375
     },
     {
       "pin": "dodec",
-      "text": "Goth Mommy Town",
+      "text": "Veil West Sector DB-X c1-1\nGoth Mommy Town\nType:Dodec Starport",
       "x": -1463.375,
       "y": -169.6875,
       "z": 396.78125
     },
     {
       "pin": "coriolis",
-      "text": "Sattler Refuge",
+      "text": "Plaa Eurk OM-W d1-4\nSattler Refuge\nType:Coriolis Starport",
       "x": -2071.21875,
       "y": 20.96875,
       "z": -890.71875
     },
     {
       "pin": "carrier",
-      "text": "K4N-4VJ",
+      "text": "Phylur TP-A b55-2\nK4N-4VJ\nType:Drake-Class Carrier",
       "x": -1640.375,
       "y": 52.28125,
       "z": 2677.5625
     },
     {
       "pin": "outpost",
-      "text": "Scott Beacon",
+      "text": "Veil West Sector PE-P b6-0\nScott Beacon\nType:Outpost",
       "x": -1439.5,
       "y": -144.3125,
       "z": 460.0625
     },
     {
       "pin": "outpost",
-      "text": "Veil West Watchtower (bne)",
+      "text": "Veil West Sector NT-Q b5-4\nVeil West Watchtower (bne)\nType:Outpost",
       "x": -1444.03125,
       "y": -164.21875,
       "z": 436.46875
     },
     {
       "pin": "carrier",
-      "text": "J0Z-51B",
+      "text": "NGC 7822 Sector BQ-Y d12\nJ0Z-51B\nType:Drake-Class Carrier",
       "x": -2454.1875,
       "y": 299.0625,
       "z": -1326.0625
     },
     {
       "pin": "asteroidbase",
-      "text": "Gorgon Research Facility",
+      "text": "NGC 7822 Sector BQ-Y d12\nGorgon Research Facility\nType:Asteroid base",
       "x": -2454.1875,
       "y": 299.0625,
       "z": -1326.0625
     },
     {
       "pin": "outpost",
-      "text": "Hun Laboratory",
+      "text": "Veil West Sector JS-T c3-16\nHun Laboratory\nType:Outpost",
       "x": -1428.375,
       "y": -129.0625,
       "z": 477.5
     },
     {
       "pin": "outpost",
-      "text": "Shelley Observatory",
+      "text": "Veil West Sector GC-U b3-2\nShelley Observatory\nType:Outpost",
       "x": -1450.125,
       "y": -177.84375,
       "z": 402.53125
     },
     {
       "pin": "carrier",
-      "text": "JZY-GKL",
+      "text": "S171 20\nJZY-GKL\nType:Drake-Class Carrier",
       "x": -2466.5,
       "y": 299.78125,
       "z": -1344.3125
     },
     {
       "pin": "outpost",
-      "text": "Hennepin Survey",
+      "text": "Plaa Eurk EI-M b7-0\nHennepin Survey\nType:Outpost",
       "x": -2057.96875,
       "y": 24.375,
       "z": -894.71875
     },
     {
       "pin": "carrier",
-      "text": "WHN-50B",
+      "text": "Veil West Sector JS-T c3-21\nWHN-50B\nType:Drake-Class Carrier",
       "x": -1427.53125,
       "y": -140.65625,
       "z": 464.21875
     },
     {
       "pin": "outpost",
-      "text": "Bowman Observatory",
+      "text": "Veil West Sector JS-T c3-21\nBowman Observatory\nType:Outpost",
       "x": -1427.53125,
       "y": -140.65625,
       "z": 464.21875
     },
     {
       "pin": "coriolis",
-      "text": "Land Terminal",
+      "text": "Veil West Sector JS-T c3-21\nLand Terminal\nType:Coriolis Starport",
       "x": -1427.53125,
       "y": -140.65625,
       "z": 464.21875
     },
     {
       "pin": "planetarybase",
-      "text": "Sternberg Platform",
+      "text": "Veil West Sector AQ-Y d61\nSternberg Platform\nType:Planetary Outpost",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "dodec",
-      "text": "The Cube - Himmelsfeste Di Fiore",
+      "text": "Veil West Sector AQ-Y d61\nThe Cube - Himmelsfeste Di Fiore\nType:Dodec Starport",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "coriolis",
-      "text": "Shepard Enterprise",
+      "text": "Veil West Sector AQ-Y d61\nShepard Enterprise\nType:Coriolis Starport",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "outpost",
-      "text": "Leoniceno Laboratory",
+      "text": "Veil West Sector AQ-Y d61\nLeoniceno Laboratory\nType:Outpost",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "carrier",
-      "text": "G9H-82W",
+      "text": "Veil West Sector AQ-Y d61\nG9H-82W\nType:Drake-Class Carrier",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "carrier",
-      "text": "DFTO",
+      "text": "Veil West Sector AQ-Y d61\nDFTO\nType:Drake-Class Carrier",
       "x": -1444.4375,
       "y": -166.9375,
       "z": 400.59375
     },
     {
       "pin": "carrier",
-      "text": "BBW-17N",
+      "text": "S171 35\nBBW-17N\nType:Drake-Class Carrier",
       "x": -2457.03125,
       "y": 298.71875,
       "z": -1340.9375
     },
     {
       "pin": "carrier",
-      "text": "HHK-63T",
+      "text": "S171 17\nHHK-63T\nType:Drake-Class Carrier",
       "x": -2449.1875,
       "y": 296.84375,
       "z": -1334.75
     },
     {
       "pin": "outpost",
-      "text": "Aristotle Reach",
+      "text": "Veil West Sector ND-S b4-2\nAristotle Reach\nType:Outpost",
       "x": -1433.6875,
       "y": -195.28125,
       "z": 427.84375
     },
     {
       "pin": "outpost",
-      "text": "Strauss Relay",
+      "text": "Veil West Sector ND-S b4-2\nStrauss Relay\nType:Outpost",
       "x": -1433.6875,
       "y": -195.28125,
       "z": 427.84375
     },
     {
       "pin": "outpost",
-      "text": "Hamuy Relay",
+      "text": "Veil West Sector JC-V c2-8\nHamuy Relay\nType:Outpost",
       "x": -1436.28125,
       "y": -213.21875,
       "z": 416.03125
     },
     {
       "pin": "coriolis",
-      "text": "Frimout's Pride",
+      "text": "Veil West Sector CL-Y d58\nFrimout's Pride\nType:Coriolis Starport",
       "x": -1439.53125,
       "y": -208.4375,
       "z": 399.84375
     },
     {
       "pin": "outpost",
-      "text": "Kuiper Hub",
+      "text": "Veil West Sector CL-Y d58\nKuiper Hub\nType:Outpost",
       "x": -1439.53125,
       "y": -208.4375,
       "z": 399.84375
     },
     {
       "pin": "carrier",
-      "text": "XFY-1VY",
+      "text": "Veil West Sector CL-Y d57\nXFY-1VY\nType:Drake-Class Carrier",
       "x": -1434.78125,
       "y": -198.3125,
       "z": 410.25
     },
     {
       "pin": "planetarybase",
-      "text": "Fincke City",
+      "text": "Veil West Sector FW-W c1-7\nFincke City\nType:Planetary Outpost",
       "x": -1434.96875,
       "y": -206.90625,
       "z": 411.21875
     },
     {
       "pin": "orbis",
-      "text": "Schwentke Relay",
+      "text": "Veil West Sector MI-S b4-3\nSchwentke Relay\nType:Orbis Starport",
       "x": -1424,
       "y": -167.34375,
       "z": 416.125
     },
     {
       "pin": "carrier",
-      "text": "X7B-2QZ",
+      "text": "Plaa Eurk PM-W d1-44\nX7B-2QZ\nType:Drake-Class Carrier",
       "x": -2029.21875,
       "y": 5.5625,
       "z": -888.40625
     },
     {
       "pin": "carrier",
-      "text": "WHT-4TZ",
+      "text": "Plaa Eurk PM-W d1-44\nWHT-4TZ\nType:Drake-Class Carrier",
       "x": -2029.21875,
       "y": 5.5625,
       "z": -888.40625
     },
     {
       "pin": "dodec",
-      "text": "Royal Colonial Metals 4",
+      "text": "Plaa Eurk PM-W d1-44\nRoyal Colonial Metals 4\nType:Dodec Starport",
       "x": -2029.21875,
       "y": 5.5625,
       "z": -888.40625
     },
     {
       "pin": "asteroidbase",
-      "text": "Shriver Legacy",
+      "text": "Veil West Sector OD-S b4-2\nShriver Legacy\nType:Asteroid base",
       "x": -1421.65625,
       "y": -199.34375,
       "z": 433.09375
     },
     {
       "pin": "planetarybase",
-      "text": "Neugebauer City",
+      "text": "Veil West Sector OD-S b4-2\nNeugebauer City\nType:Planetary Outpost",
       "x": -1421.65625,
       "y": -199.34375,
       "z": 433.09375
     },
     {
       "pin": "carrier",
-      "text": "KNM-90K",
+      "text": "Prooe Drye BB-Z b20-0\nKNM-90K\nType:Drake-Class Carrier",
       "x": -1356.90625,
       "y": -48.46875,
       "z": 667.53125
     },
     {
       "pin": "outpost",
-      "text": "Condit Lab",
+      "text": "Veil West Sector BQ-Y d67\nCondit Lab\nType:Outpost",
       "x": -1418.25,
       "y": -172.84375,
       "z": 421.46875
     },
     {
       "pin": "carrier",
-      "text": "K8K-10T",
+      "text": "Veil West Sector DL-Y d2\nK8K-10T\nType:Drake-Class Carrier",
       "x": -1405.21875,
       "y": -187.84375,
       "z": 454.09375
     },
     {
       "pin": "ocellus",
-      "text": "Raleigh Hub",
+      "text": "Veil West Sector DL-Y d2\nRaleigh Hub\nType:Ocellus Starport",
       "x": -1405.21875,
       "y": -187.84375,
       "z": 454.09375
     },
     {
       "pin": "orbis",
-      "text": "Patel Beacon",
+      "text": "Veil West Sector IH-V c2-12\nPatel Beacon\nType:Orbis Starport",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "asteroidbase",
-      "text": "Melvill Sanctuary",
+      "text": "Veil West Sector IH-V c2-12\nMelvill Sanctuary\nType:Asteroid base",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "dodec",
-      "text": "Albitzky Gateway",
+      "text": "Veil West Sector IH-V c2-12\nAlbitzky Gateway\nType:Dodec Starport",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "carrier",
-      "text": "X3M-W2Q",
+      "text": "Veil West Sector IH-V c2-12\nX3M-W2Q\nType:Drake-Class Carrier",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "outpost",
-      "text": "Pythagoras Legacy",
+      "text": "Veil West Sector IH-V c2-12\nPythagoras Legacy\nType:Outpost",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "outpost",
-      "text": "Roeg Gateway",
+      "text": "Veil West Sector IH-V c2-12\nRoeg Gateway\nType:Outpost",
       "x": -1411.09375,
       "y": -183.15625,
       "z": 423.75
     },
     {
       "pin": "planetarybase",
-      "text": "Guth's Folly",
+      "text": "Veil West Sector DL-Y d3\nGuth's Folly\nType:Planetary Outpost",
       "x": -1418.4375,
       "y": -189,
       "z": 395.9375
     },
     {
       "pin": "outpost",
-      "text": "Augustvonsteinheil Enterprise",
+      "text": "Veil West Sector BQ-Y d74\nAugustvonsteinheil Enterprise\nType:Outpost",
       "x": -1411.65625,
       "y": -176.6875,
       "z": 416.03125
     },
     {
       "pin": "outpost",
-      "text": "Di Fiore Vail West Observatory",
+      "text": "Veil West Sector BQ-Y d74\nDi Fiore Vail West Observatory\nType:Outpost",
       "x": -1411.65625,
       "y": -176.6875,
       "z": 416.03125
     },
     {
       "pin": "coriolis",
-      "text": "The Bleeding Rose Depot",
+      "text": "Veil West Sector BQ-Y d74\nThe Bleeding Rose Depot\nType:Coriolis Starport",
       "x": -1411.65625,
       "y": -176.6875,
       "z": 416.03125
     },
     {
       "pin": "orbis",
-      "text": "Hyperion Monolith 002 - Harbringer Drive",
+      "text": "Veil West Sector BQ-Y d74\nHyperion Monolith 002 - Harbringer Drive\nType:Orbis Starport",
       "x": -1411.65625,
       "y": -176.6875,
       "z": 416.03125
     },
     {
       "pin": "orbis",
-      "text": "Ballard Horizons",
+      "text": "Veil West Sector KC-V c2-14\nBallard Horizons\nType:Orbis Starport",
       "x": -1413.21875,
       "y": -213.1875,
       "z": 415.03125
     },
     {
       "pin": "orbis",
-      "text": "Dittmar's Pride",
+      "text": "Veil West Sector TJ-Q b5-0\nDittmar's Pride\nType:Orbis Starport",
       "x": -1404.46875,
       "y": -200.625,
       "z": 437.71875
     },
     {
       "pin": "coriolis",
-      "text": "Nusslein-volhard Relay",
+      "text": "Veil West Sector IC-U b3-0\nNusslein-volhard Relay\nType:Coriolis Starport",
       "x": -1409.875,
       "y": -180.34375,
       "z": 404.71875
     },
     {
       "pin": "carrier",
-      "text": "X4X-5XN",
+      "text": "Pru Euq JM-G b25-1\nX4X-5XN\nType:Drake-Class Carrier",
       "x": -1316.8125,
       "y": 203.625,
       "z": 770.46875
     },
     {
       "pin": "planetarybase",
-      "text": "Frobisher City",
+      "text": "Veil West Sector DL-Y d54\nFrobisher City\nType:Planetary Outpost",
       "x": -1412.9375,
       "y": -192.9375,
       "z": 391.875
     },
     {
       "pin": "outpost",
-      "text": "Apt Beacon",
+      "text": "Veil West Sector RO-Q b5-0\nApt Beacon\nType:Outpost",
       "x": -1399.65625,
       "y": -183.9375,
       "z": 435.65625
     },
     {
       "pin": "orbis",
-      "text": "Foxytech Veil Observatory",
+      "text": "Veil West Sector PD-S b4-2\nFoxytech Veil Observatory\nType:Orbis Starport",
       "x": -1402.75,
       "y": -197.8125,
       "z": 429.21875
     },
     {
       "pin": "orbis",
-      "text": "Izumiya's Progress",
+      "text": "Veil West Sector NI-S b4-0\nIzumiya's Progress\nType:Orbis Starport",
       "x": -1399.0625,
       "y": -179.34375,
       "z": 420.1875
     },
     {
       "pin": "orbis",
-      "text": "Zhuravleva's Pride",
+      "text": "Veil West Sector PD-S b4-1\nZhuravleva's Pride\nType:Orbis Starport",
       "x": -1401.34375,
       "y": -200.15625,
       "z": 417.9375
     },
     {
       "pin": "ocellus",
-      "text": "Burger's Inheritance",
+      "text": "Veil West Sector PD-S b4-1\nBurger's Inheritance\nType:Ocellus Starport",
       "x": -1401.34375,
       "y": -200.15625,
       "z": 417.9375
     },
     {
       "pin": "outpost",
-      "text": "Horrocks Beacon",
+      "text": "Veil West Sector GW-W c1-17\nHorrocks Beacon\nType:Outpost",
       "x": -1400.25,
       "y": -188.28125,
       "z": 414.9375
     },
     {
       "pin": "carrier",
-      "text": "K7F-95F",
+      "text": "Outordy XZ-D b13-0\nK7F-95F\nType:Drake-Class Carrier",
       "x": -3484.875,
       "y": 262.71875,
       "z": -2045.28125
     },
     {
       "pin": "carrier",
-      "text": "K2T-B7H",
+      "text": "Veil West Sector DL-Y d68\nK2T-B7H\nType:Drake-Class Carrier",
       "x": -1398.25,
       "y": -193.5625,
       "z": 418.90625
     },
     {
       "pin": "carrier",
-      "text": "X7Y-61G",
+      "text": "Veil West Sector DL-Y d68\nX7Y-61G\nType:Drake-Class Carrier",
       "x": -1398.25,
       "y": -193.5625,
       "z": 418.90625
     },
     {
       "pin": "carrier",
-      "text": "Y3W-52Z",
+      "text": "Veil West Sector PD-S b4-0\nY3W-52Z\nType:Drake-Class Carrier",
       "x": -1399.09375,
       "y": -197.28125,
       "z": 416.59375
     },
     {
       "pin": "ocellus",
-      "text": "Ballard City",
+      "text": "Veil West Sector KC-V c2-18\nBallard City\nType:Ocellus Starport",
       "x": -1398.25,
       "y": -199.59375,
       "z": 419.3125
     },
     {
       "pin": "outpost",
-      "text": "Mandela's Pride",
+      "text": "Veil West Sector DL-Y d66\nMandela's Pride\nType:Outpost",
       "x": -1397.75,
       "y": -195.625,
       "z": 416.625
     },
     {
       "pin": "outpost",
-      "text": "Cyggy-vdr Research Installation",
+      "text": "Veil West Sector RY-R b4-2\nCyggy-vdr Research Installation\nType:Outpost",
       "x": -1399.09375,
       "y": -210.1875,
       "z": 417.75
     },
     {
       "pin": "outpost",
-      "text": "Poisson Enterprise",
+      "text": "Veil West Sector EG-Y e13\nPoisson Enterprise\nType:Outpost",
       "x": -1399.21875,
       "y": -199.625,
       "z": 406.46875
     },
     {
       "pin": "outpost",
-      "text": "Haber City",
+      "text": "Veil West Sector JC-U b3-0\nHaber City\nType:Outpost",
       "x": -1394.3125,
       "y": -180.21875,
       "z": 411.75
     },
     {
       "pin": "planetarybase",
-      "text": "Gagarin Prospect",
+      "text": "Synuefue SB-G a24-1\nGagarin Prospect\nType:Planetary Outpost",
       "x": -1937.34375,
       "y": -29.53125,
       "z": -810.96875
     },
     {
       "pin": "orbis",
-      "text": "Bol X Nod Friendship Forever Station",
+      "text": "Veil West Sector GW-W c1-14\nBol X Nod Friendship Forever Station\nType:Orbis Starport",
       "x": -1395.15625,
       "y": -203,
       "z": 412.0625
     },
     {
       "pin": "carrier",
-      "text": "X1X-7KV",
+      "text": "Veil West Sector DL-Y d67\nX1X-7KV\nType:Drake-Class Carrier",
       "x": -1393.78125,
       "y": -200.0625,
       "z": 414.71875
     },
     {
       "pin": "carrier",
-      "text": "H8F-0XL",
+      "text": "Veil West Sector DL-Y d67\nH8F-0XL\nType:Drake-Class Carrier",
       "x": -1393.78125,
       "y": -200.0625,
       "z": 414.71875
     },
     {
       "pin": "orbis",
-      "text": "Hobbes Vista",
+      "text": "Veil West Sector DL-Y d67\nHobbes Vista\nType:Orbis Starport",
       "x": -1393.78125,
       "y": -200.0625,
       "z": 414.71875
     },
     {
       "pin": "orbis",
-      "text": "Bank Of Beamer Veil West Branch",
+      "text": "Veil West Sector GW-W c1-13\nBank Of Beamer Veil West Branch\nType:Orbis Starport",
       "x": -1392.90625,
       "y": -197.59375,
       "z": 410.71875
     },
     {
       "pin": "carrier",
-      "text": "G9K-N9X",
+      "text": "Veil West Sector GW-W c1-13\nG9K-N9X\nType:Drake-Class Carrier",
       "x": -1392.90625,
       "y": -197.59375,
       "z": 410.71875
     },
     {
       "pin": "carrier",
-      "text": "ELWO",
+      "text": "Veil West Sector GW-W c1-13\nELWO\nType:Drake-Class Carrier",
       "x": -1392.90625,
       "y": -197.59375,
       "z": 410.71875
     },
     {
       "pin": "carrier",
-      "text": "CCCO",
+      "text": "Veil West Sector GW-W c1-13\nCCCO\nType:Drake-Class Carrier",
       "x": -1392.90625,
       "y": -197.59375,
       "z": 410.71875
     },
     {
       "pin": "orbis",
-      "text": "Looks To The Moon",
+      "text": "Veil West Sector DL-Y d46\nLooks To The Moon\nType:Orbis Starport",
       "x": -1393.53125,
       "y": -216.78125,
       "z": 416.28125
     },
     {
       "pin": "carrier",
-      "text": "W6Z-TQM",
+      "text": "Oochody HJ-G a65-0\nW6Z-TQM\nType:Drake-Class Carrier",
       "x": -2773.09375,
       "y": -43.09375,
       "z": -1654.90625
     },
     {
       "pin": "orbis",
-      "text": "Kidman Enterprise",
+      "text": "Veil West Sector EB-X c1-4\nKidman Enterprise\nType:Orbis Starport",
       "x": -1388.53125,
       "y": -169.21875,
       "z": 399.25
     },
     {
       "pin": "carrier",
-      "text": "Q5M-8VW",
+      "text": "NGC 7822 Sector KH-V c2-0\nQ5M-8VW\nType:Drake-Class Carrier",
       "x": -2368.125,
       "y": 311.96875,
       "z": -1334.8125
     },
     {
       "pin": "carrier",
-      "text": "K1V-4QT",
+      "text": "Sifi JI-X b1-2\nK1V-4QT\nType:Drake-Class Carrier",
       "x": -1399.71875,
       "y": 67.40625,
       "z": 269.03125
     },
     {
       "pin": "dodec",
-      "text": "Astradust Horizon",
+      "text": "Veil West Sector LC-V c2-6\nAstradust Horizon\nType:Dodec Starport",
       "x": -1375.90625,
       "y": -201.40625,
       "z": 436.5625
     },
     {
       "pin": "outpost",
-      "text": "Bear Silo",
+      "text": "Veil West Sector DL-Y d47\nBear Silo\nType:Outpost",
       "x": -1383.75,
       "y": -214.4375,
       "z": 409.25
     },
     {
       "pin": "planetarybase",
-      "text": "RonHubbard Platform",
+      "text": "Veil West Sector PI-T c3-4\nRonHubbard Platform\nType:Planetary Outpost",
       "x": -1370.46875,
       "y": -214.21875,
       "z": 462.25
     },
     {
       "pin": "outpost",
-      "text": "Taper Outlook",
+      "text": "Veil West Sector LC-V c2-0\nTaper Outlook\nType:Outpost",
       "x": -1376.4375,
       "y": -191,
       "z": 423.28125
     },
     {
       "pin": "planetarybase",
-      "text": "Xuesen Platform",
+      "text": "Synuefue IU-A a27-0\nXuesen Platform\nType:Planetary Outpost",
       "x": -1897.84375,
       "y": -34.0625,
       "z": -784.5
     },
     {
       "pin": "carrier",
-      "text": "KHF-24F",
+      "text": "Aucopp HR-L a62-0\nKHF-24F\nType:Drake-Class Carrier",
       "x": -1374.65625,
       "y": -38.6875,
       "z": 2158.1875
     },
     {
       "pin": "carrier",
-      "text": "WSET",
+      "text": "Plaa Eurk BH-W b15-2\nWSET\nType:Drake-Class Carrier",
       "x": -1843.5,
       "y": 11.25,
       "z": -724.59375
     },
     {
       "pin": "ocellus",
-      "text": "Camellia Nebula Tourist Station",
+      "text": "Veil West Sector LC-V c2-3\nCamellia Nebula Tourist Station\nType:Ocellus Starport",
       "x": -1361.4375,
       "y": -200.78125,
       "z": 442.96875
     },
     {
       "pin": "coriolis",
-      "text": "Sherwood Prospect",
+      "text": "Veil West Sector LS-S b4-0\nSherwood Prospect\nType:Coriolis Starport",
       "x": -1360.3125,
       "y": -144.21875,
       "z": 418.125
     },
     {
       "pin": "outpost",
-      "text": "Reightler Point",
+      "text": "Veil West Sector PI-S b4-3\nReightler Point\nType:Outpost",
       "x": -1360.0625,
       "y": -179.9375,
       "z": 426.4375
     },
     {
       "pin": "asteroidbase",
-      "text": "Davy's Claim",
+      "text": "Veil West Sector PI-S b4-3\nDavy's Claim\nType:Asteroid base",
       "x": -1360.0625,
       "y": -179.9375,
       "z": 426.4375
     },
     {
       "pin": "dodec",
-      "text": "Takowasa",
+      "text": "Veil West Sector VJ-Q b5-0\nTakowasa\nType:Dodec Starport",
       "x": -1359.53125,
       "y": -200.84375,
       "z": 438.3125
     },
     {
       "pin": "orbis",
-      "text": "Kotonoha Station",
+      "text": "Veil West Sector LC-V c2-7\nKotonoha Station\nType:Orbis Starport",
       "x": -1355.84375,
       "y": -192.875,
       "z": 433.90625
     },
     {
       "pin": "orbis",
-      "text": "Tsubomi City",
+      "text": "Veil West Sector LC-V c2-7\nTsubomi City\nType:Orbis Starport",
       "x": -1355.84375,
       "y": -192.875,
       "z": 433.90625
     },
     {
       "pin": "outpost",
-      "text": "Herodotus Survey",
+      "text": "Veil West Sector LC-V c2-15\nHerodotus Survey\nType:Outpost",
       "x": -1358.8125,
       "y": -198.6875,
       "z": 418.15625
     },
     {
       "pin": "orbis",
-      "text": "Pal Terminal",
+      "text": "Veil West Sector BQ-Y d49\nPal Terminal\nType:Orbis Starport",
       "x": -1357.59375,
       "y": -182.75,
       "z": 408.59375
     },
     {
       "pin": "carrier",
-      "text": "T9K-13T",
+      "text": "Veil West Sector BQ-Y d49\nT9K-13T\nType:Drake-Class Carrier",
       "x": -1357.59375,
       "y": -182.75,
       "z": 408.59375
     },
     {
       "pin": "outpost",
-      "text": "Austin Legacy",
+      "text": "Veil West Sector BQ-Y d47\nAustin Legacy\nType:Outpost",
       "x": -1353.5625,
       "y": -178.75,
       "z": 419.28125
     },
     {
       "pin": "coriolis",
-      "text": "Shooting Range Primary Station",
+      "text": "Veil West Sector RD-S b4-1\nShooting Range Primary Station\nType:Coriolis Starport",
       "x": -1351.3125,
       "y": -196.28125,
       "z": 431.65625
     },
     {
       "pin": "dodec",
-      "text": "Ball Terminal",
+      "text": "Veil West Sector RD-S b4-1\nBall Terminal\nType:Dodec Starport",
       "x": -1351.3125,
       "y": -196.28125,
       "z": 431.65625
     },
     {
       "pin": "carrier",
-      "text": "KSSQ",
+      "text": "Veil West Sector RD-S b4-1\nKSSQ\nType:Drake-Class Carrier",
       "x": -1351.3125,
       "y": -196.28125,
       "z": 431.65625
     },
     {
       "pin": "outpost",
-      "text": "Zalyotin City",
+      "text": "Prooe Drye JV-B c2-11\nZalyotin City\nType:Outpost",
       "x": -1374.1875,
       "y": -165.625,
       "z": 309.9375
     },
     {
       "pin": "dodec",
-      "text": "Elder City",
+      "text": "Veil West Sector DL-Y d56\nElder City\nType:Dodec Starport",
       "x": -1351.34375,
       "y": -192.53125,
       "z": 408.25
     },
     {
       "pin": "carrier",
-      "text": "Q0B-79G",
+      "text": "Veil West Sector DL-Y d56\nQ0B-79G\nType:Drake-Class Carrier",
       "x": -1351.34375,
       "y": -192.53125,
       "z": 408.25
     },
     {
       "pin": "coriolis",
-      "text": "Cogs Corner",
+      "text": "Veil West Sector DL-Y d56\nCogs Corner\nType:Coriolis Starport",
       "x": -1351.34375,
       "y": -192.53125,
       "z": 408.25
     },
     {
       "pin": "outpost",
-      "text": "Roth Sanctuary",
+      "text": "Veil West Sector DL-Y d56\nRoth Sanctuary\nType:Outpost",
       "x": -1351.34375,
       "y": -192.53125,
       "z": 408.25
     },
     {
       "pin": "coriolis",
-      "text": "Becquerel Enterprise",
+      "text": "Veil West Sector DL-Y d10\nBecquerel Enterprise\nType:Coriolis Starport",
       "x": -1357.15625,
       "y": -202.3125,
       "z": 378.84375
     },
     {
       "pin": "outpost",
-      "text": "Goya Beacon",
+      "text": "Veil West Sector DL-Y d10\nGoya Beacon\nType:Outpost",
       "x": -1357.15625,
       "y": -202.3125,
       "z": 378.84375
     },
     {
       "pin": "coriolis",
-      "text": "Bester's Folly",
+      "text": "Veil West Sector DL-Y d10\nBester's Folly\nType:Coriolis Starport",
       "x": -1357.15625,
       "y": -202.3125,
       "z": 378.84375
     },
     {
       "pin": "orbis",
-      "text": "Hall Of Ravers",
+      "text": "Veil West Sector DL-Y d10\nHall Of Ravers\nType:Orbis Starport",
       "x": -1357.15625,
       "y": -202.3125,
       "z": 378.84375
     },
     {
       "pin": "ocellus",
-      "text": "Pook Relay",
+      "text": "Veil West Sector BQ-Y d52\nPook Relay\nType:Ocellus Starport",
       "x": -1348.65625,
       "y": -181.28125,
       "z": 390.71875
     },
     {
       "pin": "carrier",
-      "text": "VZN-T1Z",
+      "text": "Plaa Eurk MJ-R b18-0\nVZN-T1Z\nType:Drake-Class Carrier",
       "x": -1773.46875,
       "y": 35.53125,
       "z": -663.125
     },
     {
       "pin": "carrier",
-      "text": "H9N-80Z",
+      "text": "Oochody DD-T a44-0\nH9N-80Z\nType:Drake-Class Carrier",
       "x": -2968.09375,
       "y": -37.8125,
       "z": -1865.0625
     },
     {
       "pin": "carrier",
-      "text": "HLG-9HK",
+      "text": "Outordy XP-W d2-1\nHLG-9HK\nType:Drake-Class Carrier",
       "x": -3498.40625,
       "y": 788.75,
       "z": -2096.5
     },
     {
       "pin": "dodec",
-      "text": "Royal Colonial Shop N Go No 2",
+      "text": "Plaa Eurk AZ-S d3-17\nRoyal Colonial Shop N Go No 2\nType:Dodec Starport",
       "x": -1770.875,
       "y": -7.71875,
       "z": -732.90625
     },
     {
       "pin": "carrier",
-      "text": "M4W-9VZ",
+      "text": "Bleia Eohn YM-Q d6-110\nM4W-9VZ\nType:Drake-Class Carrier",
       "x": -1281.3125,
       "y": -35.90625,
       "z": 2087.0625
     },
     {
       "pin": "outpost",
-      "text": "Bush Beacon",
+      "text": "Plaa Eurk YP-Z b13-0\nBush Beacon\nType:Outpost",
       "x": -1782.15625,
       "y": -19.53125,
       "z": -761.4375
     },
     {
       "pin": "outpost",
-      "text": "Vela Vision",
+      "text": "Swoiwns CX-A d1-64\nVela Vision\nType:Outpost",
       "x": -1293.40625,
       "y": -145.71875,
       "z": 322.96875
     },
     {
       "pin": "outpost",
-      "text": "Yamazaki Prospect",
+      "text": "Wredguia KB-B c27-13\nYamazaki Prospect\nType:Outpost",
       "x": -1341.84375,
       "y": 38.65625,
       "z": 109.125
     },
     {
       "pin": "carrier",
-      "text": "X6X-B1K",
+      "text": "Outordy YY-R b4-0\nX6X-B1K\nType:Drake-Class Carrier",
       "x": -3645.5,
       "y": 57.6875,
       "z": -2233.25
     },
     {
       "pin": "outpost",
-      "text": "Mohr Arsenal",
+      "text": "Swoiwns GN-A d1-27\nMohr Arsenal\nType:Outpost",
       "x": -1309.78125,
       "y": -294.0625,
       "z": 312.53125
     },
     {
       "pin": "outpost",
-      "text": "Wolf Base",
+      "text": "Swoiwns GN-A d1-27\nWolf Base\nType:Outpost",
       "x": -1309.78125,
       "y": -294.0625,
       "z": 312.53125
     },
     {
       "pin": "dodec",
-      "text": "Pollexfen's Inheritance",
+      "text": "Plaa Eurk EJ-B c13-16\nPollexfen's Inheritance\nType:Dodec Starport",
       "x": -1582.875,
       "y": -10.375,
       "z": -500.21875
     },
     {
       "pin": "carrier",
-      "text": "DZK-1KV",
+      "text": "Thailoea XB-J d10-56\nDZK-1KV\nType:Drake-Class Carrier",
       "x": -4765.78125,
       "y": -212.65625,
       "z": 4952.25
     },
     {
       "pin": "outpost",
-      "text": "Barr Lab",
+      "text": "Swoiwns LB-P a5-4\nBarr Lab\nType:Outpost",
       "x": -1251.40625,
       "y": -37.84375,
       "z": 271.6875
     },
     {
       "pin": "dodec",
-      "text": "Cooper Murph Drift",
+      "text": "Synuefue XU-V d3-43\nCooper Murph Drift\nType:Dodec Starport",
       "x": -1686,
       "y": -29.4375,
       "z": -727
     },
     {
       "pin": "carrier",
-      "text": "K2G-BVT",
+      "text": "Synuefue XL-B b44-0\nK2G-BVT\nType:Drake-Class Carrier",
       "x": -1471.6875,
       "y": -640.09375,
       "z": -110.40625
     },
     {
       "pin": "carrier",
-      "text": "HBB-27K",
+      "text": "Drojeae BG-R c7-16\nHBB-27K\nType:Drake-Class Carrier",
       "x": -1620.34375,
       "y": -157.375,
       "z": 3104.5625
     },
     {
       "pin": "coriolis",
-      "text": "Dorsett Landing",
+      "text": "Swoiwns XV-C d86\nDorsett Landing\nType:Coriolis Starport",
       "x": -1248.84375,
       "y": -32.65625,
       "z": 258.6875
     },
     {
       "pin": "outpost",
-      "text": "Gloss City",
+      "text": "Synuefue QY-K a35-0\nGloss City\nType:Outpost",
       "x": -1658.4375,
       "y": -34.875,
       "z": -689.8125
     },
     {
       "pin": "outpost",
-      "text": "Strekalov Park",
+      "text": "Swoiwns XV-C d22\nStrekalov Park\nType:Outpost",
       "x": -1236.8125,
       "y": -46.40625,
       "z": 287.09375
     },
     {
       "pin": "orbis",
-      "text": "Powers Penal Colony",
+      "text": "Wredguia EI-B d13-64\nPowers Penal Colony\nType:Orbis Starport",
       "x": -1279.375,
       "y": 13.78125,
       "z": 126.3125
     },
     {
       "pin": "ocellus",
-      "text": "Post Hub",
+      "text": "Wredguia EI-B d13-9\nPost Hub\nType:Ocellus Starport",
       "x": -1283.46875,
       "y": 1.78125,
       "z": 89.9375
     },
     {
       "pin": "carrier",
-      "text": "T7Z-63Y",
+      "text": "Outorst LY-I d9-6\nT7Z-63Y\nType:Drake-Class Carrier",
       "x": -2330.59375,
       "y": 289.4375,
       "z": -1531.40625
     },
     {
       "pin": "outpost",
-      "text": "Martins Vision",
+      "text": "Synuefue NS-M a34-0\nMartins Vision\nType:Outpost",
       "x": -1647.84375,
       "y": -33.65625,
       "z": -698.71875
     },
     {
       "pin": "outpost",
-      "text": "Johnson Depot",
+      "text": "Synuefue YU-V d3-5\nJohnson Depot\nType:Outpost",
       "x": -1639.84375,
       "y": -40.40625,
       "z": -692.28125
     },
     {
       "pin": "orbis",
-      "text": "Deano's Angels Nirvana",
+      "text": "Synuefue YU-V d3-5\nDeano's Angels Nirvana\nType:Orbis Starport",
       "x": -1639.84375,
       "y": -40.40625,
       "z": -692.28125
     },
     {
       "pin": "dodec",
-      "text": "Deano's Angels Paradise",
+      "text": "Synuefue YU-V d3-5\nDeano's Angels Paradise\nType:Dodec Starport",
       "x": -1639.84375,
       "y": -40.40625,
       "z": -692.28125
     },
     {
       "pin": "carrier",
-      "text": "K8L-04G",
+      "text": "Drojeae SI-Z d1-74\nK8L-04G\nType:Drake-Class Carrier",
       "x": -1502.8125,
       "y": -89.34375,
       "z": 2943.6875
     },
     {
       "pin": "outpost",
-      "text": "Teller's Inheritance",
+      "text": "Synuefue VT-K a35-0\nTeller's Inheritance\nType:Outpost",
       "x": -1634.53125,
       "y": -42.625,
       "z": -692.96875
     },
     {
       "pin": "dodec",
-      "text": "Park Vision",
+      "text": "Plaa Eurk OV-X c14-12\nPark Vision\nType:Dodec Starport",
       "x": -1476.03125,
       "y": -12.625,
       "z": -410.03125
     },
     {
       "pin": "outpost",
-      "text": "Polak Lab",
+      "text": "Synuefue PS-M a34-1\nPolak Lab\nType:Outpost",
       "x": -1633.8125,
       "y": -31.5,
       "z": -703.4375
     },
     {
       "pin": "coriolis",
-      "text": "Oda Beacon",
+      "text": "Swoiwns XG-X b7-4\nOda Beacon\nType:Coriolis Starport",
       "x": -1190.625,
       "y": -91.875,
       "z": 382.5625
     },
     {
       "pin": "carrier",
-      "text": "V8Y-69Z",
+      "text": "Plaa Eurk ZZ-Q b18-1\nV8Y-69Z\nType:Drake-Class Carrier",
       "x": -1604.09375,
       "y": -3.1875,
       "z": -659.40625
     },
     {
       "pin": "outpost",
-      "text": "Eilenberg Prospect",
+      "text": "Swoiwns LO-C b5-1\nEilenberg Prospect\nType:Outpost",
       "x": -1201.71875,
       "y": -95.3125,
       "z": 323.1875
     },
     {
       "pin": "outpost",
-      "text": "Maine Vista",
+      "text": "Swoiwns FI-Z d1-43\nMaine Vista\nType:Outpost",
       "x": -1187.875,
       "y": -89.46875,
       "z": 375.34375
     },
     {
       "pin": "coriolis",
-      "text": "Dobzhansky Relay",
+      "text": "Synuefue QS-M a34-0\nDobzhansky Relay\nType:Coriolis Starport",
       "x": -1622.375,
       "y": -30,
       "z": -703.625
     },
     {
       "pin": "orbis",
-      "text": "Royal Colonial Metals 3",
+      "text": "Synuefue YU-V d3-37\nRoyal Colonial Metals 3\nType:Orbis Starport",
       "x": -1616.1875,
       "y": -39.9375,
       "z": -697.9375
     },
     {
       "pin": "carrier",
-      "text": "K7W-0QZ",
+      "text": "Pru Euq KM-W d1-41\nK7W-0QZ\nType:Drake-Class Carrier",
       "x": -1162.25,
       "y": -23.03125,
       "z": 421.8125
     },
     {
       "pin": "carrier",
-      "text": "UZF-19Q",
+      "text": "Bleae Thua IM-G c25-5\nUZF-19Q\nType:Drake-Class Carrier",
       "x": -1305.53125,
       "y": 425.875,
       "z": 2577
     },
     {
       "pin": "outpost",
-      "text": "Gauss Survey",
+      "text": "Synuefue ZA-Q c8-2\nGauss Survey\nType:Outpost",
       "x": -1599.8125,
       "y": -34.90625,
       "z": -683.03125
     },
     {
       "pin": "carrier",
-      "text": "G8V-01L",
+      "text": "Synuefue YU-V d3-21\nG8V-01L\nType:Drake-Class Carrier",
       "x": -1608.875,
       "y": -43.9375,
       "z": -697.4375
     },
     {
       "pin": "dodec",
-      "text": "Niels Bohr City",
+      "text": "Synuefue YU-V d3-21\nNiels Bohr City\nType:Dodec Starport",
       "x": -1608.875,
       "y": -43.9375,
       "z": -697.4375
     },
     {
       "pin": "outpost",
-      "text": "Moran Reach",
+      "text": "Swoiwns QU-A b6-1\nMoran Reach\nType:Outpost",
       "x": -1181.90625,
       "y": -93.65625,
       "z": 337.53125
     },
     {
       "pin": "asteroidbase",
-      "text": "Iris Vacations",
+      "text": "FW Cephei\nIris Vacations\nType:Asteroid base",
       "x": -1415.78125,
       "y": 366.65625,
       "z": -355.3125
     },
     {
       "pin": "coriolis",
-      "text": "Cherry Vision",
+      "text": "Synuefue YU-V d3-18\nCherry Vision\nType:Coriolis Starport",
       "x": -1599.9375,
       "y": -41.53125,
       "z": -709.875
     },
     {
       "pin": "carrier",
-      "text": "Q5F-7HM",
+      "text": "Outorst NL-S b31-0\nQ5F-7HM\nType:Drake-Class Carrier",
       "x": -2391.75,
       "y": 17.96875,
       "z": -1656.65625
     },
     {
       "pin": "carrier",
-      "text": "WLN-26Z",
+      "text": "Bleae Thua YI-J b12-0\nWLN-26Z\nType:Drake-Class Carrier",
       "x": -1091.46875,
       "y": 645.03125,
       "z": 1770.65625
     },
     {
       "pin": "carrier",
-      "text": "PINS",
+      "text": "Wredguia FP-E c25-3\nPINS\nType:Drake-Class Carrier",
       "x": -1223.90625,
       "y": 54.6875,
       "z": 53.28125
     },
     {
       "pin": "carrier",
-      "text": "J0B-W0F",
+      "text": "Outorst YG-K d9-0\nJ0B-W0F\nType:Drake-Class Carrier",
       "x": -2298.40625,
       "y": 787.21875,
       "z": -1542.6875
     },
     {
       "pin": "carrier",
-      "text": "KHN-5VJ",
+      "text": "Pru Euq VT-B c28-3\nKHN-5VJ\nType:Drake-Class Carrier",
       "x": -1025.71875,
       "y": 546.65625,
       "z": 1426.96875
     },
     {
       "pin": "carrier",
-      "text": "H7Z-W8V",
+      "text": "Outordy SE-T b3-1\nH7Z-W8V\nType:Drake-Class Carrier",
       "x": -3302.59375,
       "y": -2.8125,
       "z": -2262.375
     },
     {
       "pin": "carrier",
-      "text": "GFZ-LQN",
+      "text": "IC 4756 Sector IR-W d1-110\nGFZ-LQN\nType:Drake-Class Carrier",
       "x": -1005.0625,
       "y": -1.59375,
       "z": 1239.875
     },
     {
       "pin": "carrier",
-      "text": "FZT-89Z",
+      "text": "Wredguia YW-D b53-3\nFZT-89Z\nType:Drake-Class Carrier",
       "x": -1180.25,
       "y": 31.5,
       "z": 82.0625
