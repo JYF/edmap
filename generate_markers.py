@@ -2,19 +2,21 @@
 """
 Generate markers.json from stations CSV and system coordinates JSONL
 Maps station types to edastro pin icons and logs unmatched stations to stderr
+Uses SQLite for fast indexed lookups
 """
 
 import json
 import csv
 import sys
+import sqlite3
+import os
 from pathlib import Path
-from collections import defaultdict
 
 # Type to pin mapping based on edastro.com documentation
 TYPE_TO_PIN = {
     "Asteroid base": "asteroidbase",
     "Coriolis Starport": "coriolis",
-    "Dodec Starport": "dodec",  # fallback to orange if not supported
+    "Dodec Starport": "dodec",
     "Drake-Class Carrier": "carrier",
     "Ocellus Starport": "ocellus",
     "Orbis Starport": "orbis",
@@ -26,21 +28,51 @@ TYPE_TO_PIN = {
 DEFAULT_PIN = "orange"
 
 
-def load_systems_from_jsonl(jsonl_path):
+def build_systems_db(jsonl_path, db_path):
     """
-    Load systems from JSONL file into a dictionary indexed by system name (lowercase)
-    Returns: dict with lowercase system name as key, coordinates dict as value
+    Build SQLite database from JSONL file with indexed system names
     """
-    systems = {}
+    print(f"Building systems database from JSONL...", file=sys.stderr)
+    
+    # Create/overwrite database
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    
+    # Create table with index on name
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS systems (
+            name TEXT PRIMARY KEY COLLATE NOCASE,
+            x REAL,
+            y REAL,
+            z REAL
+        )
+    ''')
+    
+    # Clear existing data
+    cursor.execute('DELETE FROM systems')
+    
+    # Load and insert data
+    count = 0
     try:
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for line_num, line in enumerate(f, 1):
                 if line.strip():
                     try:
                         system = json.loads(line)
-                        name = system.get("name", "").lower()
-                        if name and "coords" in system:
-                            systems[name] = system["coords"]
+                        name = system.get("name", "").strip()
+                        coords = system.get("coords", {})
+                        
+                        if name and coords:
+                            cursor.execute(
+                                'INSERT OR REPLACE INTO systems (name, x, y, z) VALUES (?, ?, ?, ?)',
+                                (name, coords.get("x"), coords.get("y"), coords.get("z"))
+                            )
+                            count += 1
+                            
+                            # Batch commit every 10k records
+                            if count % 10000 == 0:
+                                conn.commit()
+                                print(f"  Processed {count} systems...", file=sys.stderr)
                     except json.JSONDecodeError as e:
                         print(f"Warning: Failed to parse JSONL line {line_num}: {e}", file=sys.stderr)
                         continue
@@ -48,7 +80,46 @@ def load_systems_from_jsonl(jsonl_path):
         print(f"Error: JSONL file not found: {jsonl_path}", file=sys.stderr)
         sys.exit(1)
     
-    return systems
+    conn.commit()
+    conn.close()
+    
+    print(f"✓ Database created with {count} systems", file=sys.stderr)
+    return count
+
+
+def ensure_systems_db(jsonl_path, db_path):
+    """
+    Ensure systems database exists and is up-to-date.
+    Rebuild if JSONL is newer than DB.
+    Returns the connection object.
+    """
+    jsonl_mtime = os.path.getmtime(jsonl_path)
+    
+    if os.path.exists(db_path):
+        db_mtime = os.path.getmtime(db_path)
+        if db_mtime >= jsonl_mtime:
+            # Database is up-to-date
+            print(f"Using existing database", file=sys.stderr)
+            return sqlite3.connect(db_path)
+    
+    # Need to build/rebuild database
+    build_systems_db(jsonl_path, db_path)
+    return sqlite3.connect(db_path)
+
+
+def get_system_coords(cursor, system_name):
+    """
+    Query system coordinates from database.
+    Returns dict with x, y, z or None if not found.
+    """
+    cursor.execute(
+        'SELECT x, y, z FROM systems WHERE name = ?',
+        (system_name,)
+    )
+    row = cursor.fetchone()
+    if row:
+        return {"x": row[0], "y": row[1], "z": row[2]}
+    return None
 
 
 def get_pin_color(station_type):
@@ -56,14 +127,13 @@ def get_pin_color(station_type):
     return TYPE_TO_PIN.get(station_type, DEFAULT_PIN)
 
 
-def generate_markers(csv_path, jsonl_path, output_path, markers_url=None):
+def generate_markers(csv_path, db_path, output_path, markers_url=None):
     """
-    Generate markers JSON from CSV stations and JSONL coordinates
+    Generate markers JSON from CSV stations and SQLite database
     """
-    # Load systems
-    print("Loading systems from JSONL...", file=sys.stderr)
-    systems = load_systems_from_jsonl(jsonl_path)
-    print(f"Loaded {len(systems)} systems", file=sys.stderr)
+    # Open database connection
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
     
     markers = []
     unmatched = []
@@ -79,16 +149,15 @@ def generate_markers(csv_path, jsonl_path, output_path, markers_url=None):
                 system_name = row.get("System Name", "").strip()
                 station_type = row.get("Type", "").strip()
                 
-                # Try to find system (case-insensitive)
-                system_key = system_name.lower()
+                # Query database for system
+                coords = get_system_coords(cursor, system_name)
                 
-                if system_key in systems:
-                    coords = systems[system_key]
+                if coords:
                     pin = get_pin_color(station_type)
                     
                     marker = {
                         "pin": pin,
-                        "text": f"{system_name}\n{name}\nType:{station_type}" ,
+                        "text": f"{system_name}\n{name}\nType : {station_type}",
                         "x": coords.get("x"),
                         "y": coords.get("y"),
                         "z": coords.get("z")
@@ -104,13 +173,17 @@ def generate_markers(csv_path, jsonl_path, output_path, markers_url=None):
     except FileNotFoundError:
         print(f"Error: CSV file not found: {csv_path}", file=sys.stderr)
         sys.exit(1)
+    finally:
+        conn.close()
     
     # Log unmatched stations
     if unmatched:
         print(f"\n⚠ {len(unmatched)} unmatched stations:", file=sys.stderr)
-        for station in unmatched:
+        for station in unmatched[:50]:  # Show first 50
             print(f"  - '{station['name']}' in system '{station['system']}' ({station['type']})", 
                   file=sys.stderr)
+        if len(unmatched) > 50:
+            print(f"  ... and {len(unmatched) - 50} more", file=sys.stderr)
     
     # Write markers JSON
     output = {"markers": markers}
@@ -142,9 +215,15 @@ if __name__ == "__main__":
     workspace_dir = Path(__file__).parent
     csv_file = workspace_dir / "stations-search-33043E22-E969-11F0-BC90-D8AF259F7FA5-1.csv"
     jsonl_file = workspace_dir / "systemsWithCoordinates.jsonl"
+    db_file = workspace_dir / "systems.db"
     output_file = workspace_dir / "markers.json"
     
     # URL to the markers.json file on GitHub
     markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json"
     
-    generate_markers(csv_file, jsonl_file, output_file, markers_url)
+    # Ensure database is up-to-date
+    print("Checking systems database...", file=sys.stderr)
+    ensure_systems_db(jsonl_file, db_file)
+    
+    # Generate markers
+    generate_markers(csv_file, db_file, output_file, markers_url)
