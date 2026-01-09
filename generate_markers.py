@@ -2,13 +2,13 @@
 """
 Generate markers.json from stations CSV and system coordinates JSONL
 Maps station types to edastro pin icons and logs unmatched stations to stderr
-Uses SQLite for fast indexed lookups
+Uses DuckDB for ultra-fast indexed lookups with compression
 """
 
 import json
 import csv
 import sys
-import sqlite3
+import duckdb
 import os
 from pathlib import Path
 
@@ -30,61 +30,44 @@ DEFAULT_PIN = "orange"
 
 def build_systems_db(jsonl_path, db_path):
     """
-    Build SQLite database from JSONL file with indexed system names
+    Build DuckDB database from JSONL file with indexed system names
     """
     print(f"Building systems database from JSONL...", file=sys.stderr)
-    
-    # Create/overwrite database
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    
-    # Create table with index on name
-    cursor.execute('''
-        CREATE TABLE IF NOT EXISTS systems (
-            name TEXT PRIMARY KEY COLLATE NOCASE,
-            x REAL,
-            y REAL,
-            z REAL
-        )
-    ''')
-    
-    # Clear existing data
-    cursor.execute('DELETE FROM systems')
-    
-    # Load and insert data
-    count = 0
+ 
     try:
-        with open(jsonl_path, 'r', encoding='utf-8') as f:
-            for line_num, line in enumerate(f, 1):
-                if line.strip():
-                    try:
-                        system = json.loads(line)
-                        name = system.get("name", "").strip()
-                        coords = system.get("coords", {})
-                        
-                        if name and coords:
-                            cursor.execute(
-                                'INSERT OR REPLACE INTO systems (name, x, y, z) VALUES (?, ?, ?, ?)',
-                                (name, coords.get("x"), coords.get("y"), coords.get("z"))
-                            )
-                            count += 1
-                            
-                            # Batch commit every 10k records
-                            if count % 10000 == 0:
-                                conn.commit()
-                                print(f"  Processed {count} systems...", file=sys.stderr)
-                    except json.JSONDecodeError as e:
-                        print(f"Warning: Failed to parse JSONL line {line_num}: {e}", file=sys.stderr)
-                        continue
+        # Create DuckDB connection
+        conn = duckdb.connect(db_path)
+     
+        # Read JSONL directly with DuckDB (very fast)
+        print(f"  Reading {jsonl_path}...", file=sys.stderr)
+        conn.execute(f"""
+            CREATE TABLE IF NOT EXISTS systems AS
+            SELECT 
+                LOWER(json.name) as name,
+                json.coords.x as x,
+                json.coords.y as y,
+                json.coords.z as z
+            FROM read_ndjson('{jsonl_path}') as json
+            WHERE json.name IS NOT NULL AND json.coords IS NOT NULL
+        """)
+     
+        # Create index on name for fast lookups
+        print(f"  Creating index on name...", file=sys.stderr)
+        conn.execute('CREATE INDEX IF NOT EXISTS idx_name ON systems(name)')
+     
+        # Get count
+        count = conn.execute('SELECT COUNT(*) as cnt FROM systems').fetchall()[0][0]
+        conn.close()
+     
+        print(f"✓ Database created with {count} systems", file=sys.stderr)
+        return count
+     
     except FileNotFoundError:
         print(f"Error: JSONL file not found: {jsonl_path}", file=sys.stderr)
         sys.exit(1)
-    
-    conn.commit()
-    conn.close()
-    
-    print(f"✓ Database created with {count} systems", file=sys.stderr)
-    return count
+    except Exception as e:
+        print(f"Error building database: {e}", file=sys.stderr)
+        sys.exit(1)
 
 
 def ensure_systems_db(jsonl_path, db_path):
@@ -94,30 +77,31 @@ def ensure_systems_db(jsonl_path, db_path):
     Returns the connection object.
     """
     jsonl_mtime = os.path.getmtime(jsonl_path)
-    
+
     if os.path.exists(db_path):
         db_mtime = os.path.getmtime(db_path)
         if db_mtime >= jsonl_mtime:
             # Database is up-to-date
             print(f"Using existing database", file=sys.stderr)
-            return sqlite3.connect(db_path)
-    
+            return duckdb.connect(db_path)
+ 
     # Need to build/rebuild database
     build_systems_db(jsonl_path, db_path)
-    return sqlite3.connect(db_path)
+    return duckdb.connect(db_path)
 
 
-def get_system_coords(cursor, system_name):
+def get_system_coords(conn, system_name):
     """
     Query system coordinates from database.
     Returns dict with x, y, z or None if not found.
     """
-    cursor.execute(
+    result = conn.execute(
         'SELECT x, y, z FROM systems WHERE name = ?',
-        (system_name,)
-    )
-    row = cursor.fetchone()
-    if row:
+        [system_name.lower()]
+    ).fetchall()
+    
+    if result:
+        row = result[0]
         return {"x": row[0], "y": row[1], "z": row[2]}
     return None
 
@@ -129,11 +113,10 @@ def get_pin_color(station_type):
 
 def generate_markers(csv_path, db_path, output_path, markers_url=None):
     """
-    Generate markers JSON from CSV stations and SQLite database
+    Generate markers JSON from CSV stations and DuckDB database
     """
     # Open database connection
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
+    conn = duckdb.connect(db_path)
     
     markers = []
     unmatched = []
@@ -150,7 +133,7 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
                 station_type = row.get("Type", "").strip()
                 
                 # Query database for system
-                coords = get_system_coords(cursor, system_name)
+                coords = get_system_coords(conn, system_name)
                 
                 if coords:
                     pin = get_pin_color(station_type)
@@ -175,7 +158,7 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
         sys.exit(1)
     finally:
         conn.close()
-    
+ 
     # Log unmatched stations
     if unmatched:
         print(f"\n⚠ {len(unmatched)} unmatched stations:", file=sys.stderr)
@@ -187,16 +170,16 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
     
     # Write markers JSON
     output = {"markers": markers}
-    
+  
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2)
-    
+  
     # Generate edastro.com URL if markers_url provided
     edastro_url = None
     if markers_url:
         from urllib.parse import quote
         edastro_url = f"https://edastro.com/galmap/?custom={quote(markers_url, safe=':/?=&')}"
-    
+ 
     # Print summary
     total = matched_count + len(unmatched)
     print(f"\n✓ Markers generated successfully!", file=sys.stderr)
@@ -204,7 +187,7 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
     print(f"  Matched: {matched_count}", file=sys.stderr)
     print(f"  Unmatched: {len(unmatched)}", file=sys.stderr)
     print(f"  Output: {output_path}", file=sys.stderr)
-    
+
     if edastro_url:
         print(f"\n🗺 Galmap URL:", file=sys.stderr)
         print(f"  {edastro_url}", file=sys.stderr)
@@ -215,15 +198,15 @@ if __name__ == "__main__":
     workspace_dir = Path(__file__).parent
     csv_file = workspace_dir / "stations-search-33043E22-E969-11F0-BC90-D8AF259F7FA5-1.csv"
     jsonl_file = workspace_dir / "systemsWithCoordinates.jsonl"
-    db_file = workspace_dir / "systems.db"
+    db_file = workspace_dir / "systems.duckdb"
     output_file = workspace_dir / "markers.json"
-    
+
     # URL to the markers.json file on GitHub
     markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json"
-    
+ 
     # Ensure database is up-to-date
     print("Checking systems database...", file=sys.stderr)
     ensure_systems_db(jsonl_file, db_file)
-    
+ 
     # Generate markers
     generate_markers(csv_file, db_file, output_file, markers_url)
