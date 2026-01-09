@@ -37,7 +37,7 @@ def build_systems_db(jsonl_path, db_path):
     try:
         # Create DuckDB connection
         conn = duckdb.connect(db_path)
-     
+
         # Read JSONL directly with DuckDB (very fast)
         print(f"  Reading {jsonl_path}...", file=sys.stderr)
         conn.execute(f"""
@@ -50,18 +50,18 @@ def build_systems_db(jsonl_path, db_path):
             FROM read_ndjson('{jsonl_path}') as json
             WHERE json.name IS NOT NULL AND json.coords IS NOT NULL
         """)
-     
+
         # Create index on name for fast lookups
         print(f"  Creating index on name...", file=sys.stderr)
         conn.execute('CREATE INDEX IF NOT EXISTS idx_name ON systems(name)')
-     
+
         # Get count
         count = conn.execute('SELECT COUNT(*) as cnt FROM systems').fetchall()[0][0]
         conn.close()
-     
+
         print(f"✓ Database created with {count} systems", file=sys.stderr)
         return count
-     
+
     except FileNotFoundError:
         print(f"Error: JSONL file not found: {jsonl_path}", file=sys.stderr)
         sys.exit(1)
@@ -99,7 +99,7 @@ def get_system_coords(conn, system_name):
         'SELECT x, y, z FROM systems WHERE name = ?',
         [system_name.lower()]
     ).fetchall()
-    
+
     if result:
         row = result[0]
         return {"x": row[0], "y": row[1], "z": row[2]}
@@ -117,11 +117,11 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
     """
     # Open database connection
     conn = duckdb.connect(db_path)
-    
+
     markers = []
     unmatched = []
     matched_count = 0
-    
+
     # Process CSV
     print("Processing stations from CSV...", file=sys.stderr)
     try:
@@ -131,13 +131,13 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
                 name = row.get("Name", "").strip()
                 system_name = row.get("System Name", "").strip()
                 station_type = row.get("Type", "").strip()
-                
+
                 # Query database for system
                 coords = get_system_coords(conn, system_name)
-                
+
                 if coords:
                     pin = get_pin_color(station_type)
-                    
+
                     marker = {
                         "pin": pin,
                         "text": f"{system_name}\n{name}\nType : {station_type}",
@@ -167,13 +167,13 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
                   file=sys.stderr)
         if len(unmatched) > 50:
             print(f"  ... and {len(unmatched) - 50} more", file=sys.stderr)
-    
+
     # Write markers JSON
     output = {"markers": markers}
-  
+
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2)
-  
+
     # Generate edastro.com URL if markers_url provided
     edastro_url = None
     if markers_url:
@@ -196,17 +196,37 @@ def generate_markers(csv_path, db_path, output_path, markers_url=None):
 if __name__ == "__main__":
     # Paths
     workspace_dir = Path(__file__).parent
-    csv_file = workspace_dir / "stations-search-33043E22-E969-11F0-BC90-D8AF259F7FA5-1.csv"
     jsonl_file = workspace_dir / "systemsWithCoordinates.jsonl"
     db_file = workspace_dir / "systems.duckdb"
-    output_file = workspace_dir / "markers.json"
 
-    # URL to the markers.json file on GitHub
-    markers_url = "https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers.json"
- 
     # Ensure database is up-to-date
     print("Checking systems database...", file=sys.stderr)
     ensure_systems_db(jsonl_file, db_file)
- 
-    # Generate markers
-    generate_markers(csv_file, db_file, output_file, markers_url)
+
+    # Find all stations-search*.csv files
+    csv_files = sorted(workspace_dir.glob("stations-search*.csv"))
+
+    if not csv_files:
+        print("Error: No stations-search*.csv files found in workspace", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"Found {len(csv_files)} CSV file(s) to process:", file=sys.stderr)
+    for csv_file in csv_files:
+        print(f"  - {csv_file.name}", file=sys.stderr)
+
+    # Process each CSV file
+    for csv_file in csv_files:
+        # Extract rootname from stations-search-rootname.csv
+        filename_stem = csv_file.stem  # "stations-search-rootname"
+        rootname = filename_stem.replace("stations-search-", "")
+
+        # Generate output filename
+        output_file = workspace_dir / f"markers-{rootname}.json"
+
+        print(f"\nProcessing {csv_file.name}...", file=sys.stderr)
+
+        # URL to the markers JSON file on GitHub
+        markers_url = f"https://raw.githubusercontent.com/JYF/edmap/refs/heads/main/markers-{rootname}.json"
+
+        # Generate markers
+        generate_markers(csv_file, db_file, output_file, markers_url)
